@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs    # Option A: publish /docs on main
+  resources:
+    - files/**
+    - assets/**
+    - robots.txt
+    
+website:
+  title: "Engineering Stats"
+  site-url: https://VincePileggi.github.io/engineering-stats/
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Reports"
+        href: reports.qmd
+    right:
+      - icon: github
+        href: https://github.com/VincePileggi/engineering-stats
+  search: true
+  page-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    css: styles.css
+    include-before-body: notice.html

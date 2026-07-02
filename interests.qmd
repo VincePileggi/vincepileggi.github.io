@@ -1,0 +1,5 @@
+---
+title: "Interests"
+---
+
+My current interests include sharing my statistical inquiries and technical reports I've worked that may help others solve similar problems related to applied statistics.

@@ -1,0 +1,11 @@
+---
+title: "Technology Assessment Framework"
+---
+
+# Technology Assessment Framework
+
+This section is under development.
+
+The framework will describe a standardized evidence-based methodology for evaluating wastewater treatment technologies using engineering, statistical, compliance, reliability, and conditional reliability analyses.
+
+More content will be added as the framework evolves.

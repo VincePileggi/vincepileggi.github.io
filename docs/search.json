@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "technology-framework.html",
+    "href": "technology-framework.html",
+    "title": "Technology Assessment Framework",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nTechnology Assessment Framework\nThis section is under development.\nThe framework will describe a standardized evidence-based methodology for evaluating wastewater treatment technologies using engineering, statistical, compliance, reliability, and conditional reliability analyses.\nMore content will be added as the framework evolves."
+  },
+  {
+    "objectID": "reviews.html",
+    "href": "reviews.html",
+    "title": "Book Reviews",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThe following is a short list of books and papers, with links, that I’ve referenced for various work that I’ve done. I give the book or article link with a short description of how I used it and the reference report.\n\nbook 1\nbook 1"
+  },
+  {
+    "objectID": "reports.html",
+    "href": "reports.html",
+    "title": "Reports",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\nPlace PDFs in the files/ folder and link them here."
+  },
+  {
+    "objectID": "reports.html#precision-tracking",
+    "href": "reports.html#precision-tracking",
+    "title": "Reports",
+    "section": "Precision Tracking",
+    "text": "Precision Tracking\n\nPlaceholder for quarterly CI width tracking notes/plots."
+  },
+  {
+    "objectID": "reports.html#vrf",
+    "href": "reports.html#vrf",
+    "title": "Reports",
+    "section": "VRF",
+    "text": "VRF\n\nPlaceholder for Variance Reduction Factor notes/plots."
+  },
+  {
+    "objectID": "reports.html#downloads",
+    "href": "reports.html#downloads",
+    "title": "Reports",
+    "section": "Downloads",
+    "text": "Downloads\n\nExplosion audit summary (PDF): files/explosion-audit-sample-size-analysis.pdf\nEVT notes (PDF): files/evt-notes.pdf"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nMy current interests include sharing my statistical inquiries and technical reports I’ve worked that may help others solve similar problems related to applied statistics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\nHello! I’m Vince Pileggi, a wastewater engineering expert, with the Ontario Ministry fo the Environment, Conservation and Parks and adjunct professor at the University of Guelph, School of Engineering.\nAside from my regular work I’m particularly passionate about the correct application of statistics to solving engineering problems when appropriate. I use RStudio [@rstudio] for R development, Quarto [@quarto] for technical publishing and of course \\(\\LaTeX\\) [@latex] for high-quality typesetting.\nMy dissertation was focused on municipal sludge treatment using an anaerobic membrane bioreactor and is available though my Research Gate profile [@pileggi_researchgate] and at the Uni. The thesis was written in \\(LaTeX\\) but included as significant amount of R-coding and statistics. It was a lot of fun with some frustration finishing it off 😄!\nThis project hosts statistical analyses and technical notes. Built with Quarto and published via GitHub Pages (Option A, /docs on main)."
+  },
+  {
+    "objectID": "about.html#references",
+    "href": "about.html#references",
+    "title": "About",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evidence-Based Engineering",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Evidence-Based Engineering",
+    "section": "Current Focus",
+    "text": "Current Focus\n\n\nTechnology Assessment Framework\nA reusable framework for evaluating wastewater treatment technologies using engineering performance metrics, statistical summaries, compliance assessment, reliability analysis, and conditional reliability analysis.\nLearn more\n\n\nOxford Hills Case Study\nA pilot case study applying the technology assessment framework to field monitoring data from the Oxford Hills wastewater treatment system, with emphasis on TIN reliability and demonstrated treatment capability.\nView case study\n\n\nEngineering Statistics\nPractical statistical methods for civil and environmental engineering, including exploratory analysis, uncertainty, reliability, visualization, and reproducible reporting.\nExplore methods\n\n\nRegulatory Science\nEvidence-based approaches to support transparent, consistent, and reproducible technical review within a modern regulator framework.\nRead more"
+  },
+  {
+    "objectID": "index.html#guiding-principle",
+    "href": "index.html#guiding-principle",
+    "title": "Evidence-Based Engineering",
+    "section": "Guiding Principle",
+    "text": "Guiding Principle\n\nEngineering decisions should be based on transparent evidence, reproducible analysis, and clear communication of uncertainty and reliability."
+  },
+  {
+    "objectID": "index.html#recent-development",
+    "href": "index.html#recent-development",
+    "title": "Evidence-Based Engineering",
+    "section": "Recent Development",
+    "text": "Recent Development\nThe current priority is development of an Evidence-Based Technology Assessment Framework for wastewater treatment technologies. The framework is being piloted using the Oxford Hills dataset and is intended to support clear assessment of demonstrated technology capability based on submitted field monitoring data."
+  },
+  {
+    "objectID": "index.html#site-roadmap",
+    "href": "index.html#site-roadmap",
+    "title": "Evidence-Based Engineering",
+    "section": "Site Roadmap",
+    "text": "Site Roadmap\nThis site will gradually be expanded to include:\n\ntechnology assessment case studies;\nwastewater treatment performance reports;\nstatistical methods for engineering applications;\nregulatory science notes;\nteaching and mentoring resources;\nselected publications and presentations."
+  },
+  {
+    "objectID": "projects/oxford-hills/index.html",
+    "href": "projects/oxford-hills/index.html",
+    "title": "Oxford Hills Case Study",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nOxford Hills Wastewater Treatment System\nThis page will summarize the first application of the Evidence-Based Technology Assessment Framework.\nPlanned content includes:\n\nproject overview\ntreatment process\nstatistical assessment\nreliability assessment\nconditional reliability\none-page technology assessment summary\nfull technical report"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "My Research",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nYou can find my publications and ongoing research on my ResearchGate profile. My current CV is available for download here CV"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nServices\nI provide statistical consulting, data analysis, literature reviews and technical report reviews."
+  }
+]

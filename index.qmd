@@ -1,0 +1,68 @@
+---
+title: "Evidence-Based Engineering"
+subtitle: "Engineering statistics, wastewater technology assessment, and regulatory science"
+---
+
+# Evidence-Based Engineering
+
+I work at the intersection of wastewater engineering, applied statistics, and regulatory science. My focus is on using clear, reproducible, data-driven methods to support practical engineering decisions, technology evaluation, and transparent regulatory review.
+
+This site is being redeveloped as a private working portfolio for technical reports, case studies, statistical methods, and evidence-based technology assessment frameworks.
+
+## Current Focus
+
+::: {.grid}
+
+::: {.g-col-6}
+### Technology Assessment Framework
+
+A reusable framework for evaluating wastewater treatment technologies using engineering performance metrics, statistical summaries, compliance assessment, reliability analysis, and conditional reliability analysis.
+
+[Learn more](technology-framework.qmd)
+:::
+
+::: {.g-col-6}
+### Oxford Hills Case Study
+
+A pilot case study applying the technology assessment framework to field monitoring data from the Oxford Hills wastewater treatment system, with emphasis on TIN reliability and demonstrated treatment capability.
+
+[View case study](projects/oxford-hills/index.qmd)
+:::
+
+::: {.g-col-6}
+### Engineering Statistics
+
+Practical statistical methods for civil and environmental engineering, including exploratory analysis, uncertainty, reliability, visualization, and reproducible reporting.
+
+[Explore methods](research.qmd)
+:::
+
+::: {.g-col-6}
+### Regulatory Science
+
+Evidence-based approaches to support transparent, consistent, and reproducible technical review within a modern regulator framework.
+
+[Read more](reports.qmd)
+:::
+
+:::
+
+## Guiding Principle
+
+> Engineering decisions should be based on transparent evidence, reproducible analysis, and clear communication of uncertainty and reliability.
+
+## Recent Development
+
+The current priority is development of an **Evidence-Based Technology Assessment Framework** for wastewater treatment technologies. The framework is being piloted using the Oxford Hills dataset and is intended to support clear assessment of demonstrated technology capability based on submitted field monitoring data.
+
+## Site Roadmap
+
+This site will gradually be expanded to include:
+
+- technology assessment case studies;
+- wastewater treatment performance reports;
+- statistical methods for engineering applications;
+- regulatory science notes;
+- teaching and mentoring resources;
+- selected publications and presentations.
+

@@ -1,0 +1,18 @@
+---
+title: "About"
+---
+
+
+![Vince Pileggi, Ph.D., P.Eng.](images/MeInAfrica.png){width=200px}
+
+Hello! I'm Vince Pileggi, a wastewater engineering expert, with the Ontario Ministry fo the Environment, Conservation and Parks and adjunct professor at the University of Guelph, School of Engineering.
+
+Aside from my regular work I'm particularly passionate about the correct application of statistics to solving engineering problems when appropriate. I use RStudio [@rstudio] for R development, Quarto [@quarto] for technical publishing and of course $\LaTeX$ [@latex] for high-quality typesetting.
+
+My dissertation was focused on municipal sludge treatment using an anaerobic membrane bioreactor and is available though my Research Gate profile [@pileggi_researchgate] and at the Uni. The thesis was written in $LaTeX$ but included as significant amount of R-coding and statistics. It was a lot of fun with some frustration finishing it off 😄! 
+
+
+This project hosts statistical analyses and technical notes.
+Built with **Quarto** and published via **GitHub Pages** (Option A, `/docs` on `main`).
+
+## References

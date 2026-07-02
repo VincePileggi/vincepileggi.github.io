@@ -1,0 +1,28 @@
+/* Headings & spacing */
+h1, h2 { margin-top: 1.2rem; }
+
+/* Simple hero band */
+.hero {
+  background: #f8f9fa;
+  border-radius: 1rem;
+  padding: 2rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+.hero .btn { margin-right: .5rem; margin-top: .5rem; }
+
+/* Navbar brand emphasis */
+.navbar-brand { font-weight: 700; letter-spacing: .2px; }
+
+/* Subtle link hover */
+a:hover { text-decoration: underline; }
+
+.site-banner{
+  background:#fff3cd;           /* Bootstrap "warning" */
+  color:#664d03;
+  border:1px solid #ffe69c;
+  padding:.6rem 1rem;
+  text-align:center;
+  margin:0 0 1rem 0;            /* space below the banner */
+  font-weight:500;
+}
+

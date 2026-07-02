@@ -1,0 +1,15 @@
+---
+title: "Reports"
+---
+
+Place PDFs in the `files/` folder and link them here.
+
+## Precision Tracking {#precision-tracking}
+- Placeholder for quarterly CI width tracking notes/plots.
+
+## VRF {#vrf}
+- Placeholder for Variance Reduction Factor notes/plots.
+
+## Downloads
+- Explosion audit summary (PDF): [files/explosion-audit-sample-size-analysis.pdf](files/explosion-audit-sample-size-analysis.pdf){target="_blank"}
+- EVT notes (PDF): [files/evt-notes.pdf](files/evt-notes.pdf){target="_blank"}

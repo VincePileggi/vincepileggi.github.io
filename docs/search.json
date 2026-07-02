@@ -70,32 +70,32 @@
     "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
   },
   {
+    "objectID": "index.html#evidence-based-engineering",
+    "href": "index.html#evidence-based-engineering",
+    "title": "Evidence-Based Engineering",
+    "section": "Evidence-Based Engineering",
+    "text": "Evidence-Based Engineering\nI develop and share educational resources, research notes, and reproducible methods at the intersection of environmental engineering, applied statistics, and technical communication.\nThis site focuses on public, non-confidential material related to engineering statistics, wastewater research, teaching, publications, and reproducible workflows. It does not contain internal reviews, regulatory assessments, or unpublished work prepared through my government employment.\n\n\n\n\n\n\nNote\n\n\n\nMaterial on this site reflects my academic and professional interests, including my adjunct professor role at the University of Guelph. It does not represent the views, policies, or positions of my employer."
+  },
+  {
     "objectID": "index.html#current-focus",
     "href": "index.html#current-focus",
     "title": "Evidence-Based Engineering",
     "section": "Current Focus",
-    "text": "Current Focus\n\n\nTechnology Assessment Framework\nA reusable framework for evaluating wastewater treatment technologies using engineering performance metrics, statistical summaries, compliance assessment, reliability analysis, and conditional reliability analysis.\nLearn more\n\n\nOxford Hills Case Study\nA pilot case study applying the technology assessment framework to field monitoring data from the Oxford Hills wastewater treatment system, with emphasis on TIN reliability and demonstrated treatment capability.\nView case study\n\n\nEngineering Statistics\nPractical statistical methods for civil and environmental engineering, including exploratory analysis, uncertainty, reliability, visualization, and reproducible reporting.\nExplore methods\n\n\nRegulatory Science\nEvidence-based approaches to support transparent, consistent, and reproducible technical review within a modern regulator framework.\nRead more"
+    "text": "Current Focus\n\n\nEngineering Statistics\nPractical statistical methods for environmental and civil engineering, including reliability analysis, uncertainty, visualization, and reproducible reporting.\nExplore methods\n\n\nWastewater Research\nPublic research and educational material related to wastewater treatment, environmental monitoring, and data-driven engineering assessment.\nView research\n\n\nTeaching and Mentoring\nResources for students, engineers, and early-career professionals interested in applying statistics and reproducible workflows to engineering problems.\nTeaching resources\n\n\nReproducible Workflows\nExamples using Quarto, R, Python, GitHub, and open technical writing tools for transparent engineering analysis and communication.\nLearn more"
   },
   {
     "objectID": "index.html#guiding-principle",
     "href": "index.html#guiding-principle",
     "title": "Evidence-Based Engineering",
     "section": "Guiding Principle",
-    "text": "Guiding Principle\n\nEngineering decisions should be based on transparent evidence, reproducible analysis, and clear communication of uncertainty and reliability."
-  },
-  {
-    "objectID": "index.html#recent-development",
-    "href": "index.html#recent-development",
-    "title": "Evidence-Based Engineering",
-    "section": "Recent Development",
-    "text": "Recent Development\nThe current priority is development of an Evidence-Based Technology Assessment Framework for wastewater treatment technologies. The framework is being piloted using the Oxford Hills dataset and is intended to support clear assessment of demonstrated technology capability based on submitted field monitoring data."
+    "text": "Guiding Principle\n\nEngineering decisions are strongest when they are supported by transparent evidence, reproducible analysis, and clear communication of uncertainty."
   },
   {
     "objectID": "index.html#site-roadmap",
     "href": "index.html#site-roadmap",
     "title": "Evidence-Based Engineering",
     "section": "Site Roadmap",
-    "text": "Site Roadmap\nThis site will gradually be expanded to include:\n\ntechnology assessment case studies;\nwastewater treatment performance reports;\nstatistical methods for engineering applications;\nregulatory science notes;\nteaching and mentoring resources;\nselected publications and presentations."
+    "text": "Site Roadmap\nThis site will gradually include:\n\npublic research and publications;\nengineering statistics tutorials;\nwastewater engineering teaching examples;\nreproducible Quarto, R, and Python workflows;\npublic presentations and academic material;\nselected non-confidential technical notes."
   },
   {
     "objectID": "projects/oxford-hills/index.html",

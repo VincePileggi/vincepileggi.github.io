@@ -5,11 +5,11 @@ subtitle: "Applied statistics, environmental engineering, and reproducible analy
 
 # Vince Pileggi, Ph.D., P.Eng.
 
-## Evidence-Based Engineering
+## Evidence-Based Wastewater Engineering and Applied Statistics
 
-I develop and share educational resources, research notes, and reproducible methods at the intersection of environmental engineering, applied statistics, and technical communication.
+I develop and share public, non-confidential resources at the intersection of wastewater engineering, applied statistics, technology assessment, and reproducible technical reporting.
 
-This site focuses on public, non-confidential material related to engineering statistics, wastewater research, teaching, publications, and reproducible workflows. It does not contain internal reviews, regulatory assessments, or unpublished work prepared through my government employment.
+This site focuses on engineering statistics, wastewater treatment performance, reliability-based assessment, teaching, publications, and reproducible workflows using tools such as Quarto, R, Python, and GitHub.
 
 ::: {.callout-note}
 Material on this site reflects my academic and professional interests, including my adjunct professor role at the University of Guelph. It does not represent the views, policies, or positions of my employer.
@@ -20,6 +20,14 @@ Material on this site reflects my academic and professional interests, including
 ::: {.grid}
 
 ::: {.g-col-6}
+### Wastewater Technology Assessment
+
+Reliability-based approaches for evaluating wastewater treatment performance using long-term field data, engineering interpretation, and probability-based metrics.
+
+[Technology framework](technology-framework.qmd)
+:::
+
+::: {.g-col-6}
 ### Engineering Statistics
 
 Practical statistical methods for environmental and civil engineering, including reliability analysis, uncertainty, visualization, and reproducible reporting.
@@ -28,11 +36,11 @@ Practical statistical methods for environmental and civil engineering, including
 :::
 
 ::: {.g-col-6}
-### Wastewater Research
+### Reports and Technical Notes
 
-Public research and educational material related to wastewater treatment, environmental monitoring, and data-driven engineering assessment.
+Selected public, non-confidential technical notes, research summaries, and reproducible examples related to wastewater and environmental engineering.
 
-[View research](reports.qmd)
+[View reports](reports.qmd)
 :::
 
 ::: {.g-col-6}
@@ -41,14 +49,6 @@ Public research and educational material related to wastewater treatment, enviro
 Resources for students, engineers, and early-career professionals interested in applying statistics and reproducible workflows to engineering problems.
 
 [Teaching resources](services.qmd)
-:::
-
-::: {.g-col-6}
-### Reproducible Workflows
-
-Examples using Quarto, R, Python, GitHub, and open technical writing tools for transparent engineering analysis and communication.
-
-[Learn more](technology-framework.qmd)
 :::
 
 :::
@@ -62,9 +62,8 @@ Examples using Quarto, R, Python, GitHub, and open technical writing tools for t
 This site will gradually include:
 
 - public research and publications;
+- wastewater technology assessment methods;
 - engineering statistics tutorials;
-- wastewater engineering teaching examples;
 - reproducible Quarto, R, and Python workflows;
 - public presentations and academic material;
 - selected non-confidential technical notes.
-

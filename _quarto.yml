@@ -7,8 +7,9 @@ project:
     - robots.txt
     
 website:
-  title: "Engineering Stats"
+  title: "Evidence-Based Engineering"
   site-url: https://VincePileggi.github.io/engineering-stats/
+
   navbar:
     left:
       - text: "Home"

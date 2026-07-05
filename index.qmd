@@ -38,6 +38,7 @@ Frameworks for assessing wastewater treatment system performance using engineeri
 Practical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.
 
 [Explore methods](projects/)
+:::
 
 ::: {.g-col-6}
 ### Reproducible Reporting

@@ -49,5 +49,3 @@ Evidence-based approaches for evaluating environmental technologies using transp
 
 Frameworks and tools that support engineering decisions using data, statistics, uncertainty, and clear communication.
 :::
-
-:::

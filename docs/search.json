@@ -116,7 +116,7 @@
     "href": "index.html",
     "title": "Evidence-Based Engineering",
     "section": "",
-    "text": "Welcome to Evidence-Based Engineering, a public knowledge base dedicated to advancing environmental engineering through evidence-based methods, applied statistics, and reproducible technical reporting.\nThis website shares generalized engineering frameworks, educational resources, and analytical workflows for engineers, students, researchers, and technical professionals.\n\n\n\n\n\n\nNoteEducational and Professional Resource\n\n\n\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments.\n\n\n\n\n\n\n\n\n\nFrameworks for assessing wastewater treatment system performance using engineering principles, long-term monitoring data, applied statistics, and reproducible reporting.\nView framework\n\n\n\nPractical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.\nExplore methods\n\n\n\nUse of Quarto, R, Python, Git, and GitHub to create transparent, repeatable, and well-documented technical analyses.\nView projects\n\n\n\nResources for students, engineers, and early-career professionals interested in applying engineering judgment and statistical thinking.\nLearn more\n\n\n\n\n\n\n\nTreatment Performance Assessment Framework\n\nGeneralized methods for evaluating wastewater treatment system performance.\n\nEngineering Statistics\n\nPractical statistical methods for environmental engineering.\n\nReproducible Reporting\n\nQuarto, Python, R, and Git workflows for transparent technical reporting.\n\nTechnology Assessment Framework\n\nEvidence-based approaches for evaluating environmental technologies.\n\n\n\n\n\n\nEngineering decisions are strongest when they are supported by transparent evidence, reproducible analysis, and clear communication of uncertainty.\n\n\n\n\n\nThis site will gradually include:\n\ntreatment performance assessment frameworks;\nengineering statistics tutorials;\nreproducible Quarto, R, and Python workflows;\npublic research and publications;\nteaching and mentoring resources;\nreviews of methods, tools, and technical resources.\n\n\n\n\n\nThe website is under active development.\nFuture additions include:\n\nPublications\nTeaching resources\nTechnical tutorials\nEngineering case studies using synthetic or public data\nDownloadable reference material"
+    "text": "Welcome to Evidence-Based Engineering, a public knowledge base dedicated to advancing environmental engineering through evidence-based methods, applied statistics, and reproducible technical reporting.\nThis website shares generalized engineering frameworks, educational resources, and analytical workflows for engineers, students, researchers, and technical professionals.\n\n\n\n\n\n\nNoteEducational and Professional Resource\n\n\n\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
   },
   {
     "objectID": "index.html#environmental-engineering-applied-statistics-reproducible-technical-reporting",
@@ -129,36 +129,36 @@
     "objectID": "index.html#featured-knowledge-areas",
     "href": "index.html#featured-knowledge-areas",
     "title": "Evidence-Based Engineering",
-    "section": "",
-    "text": "Frameworks for assessing wastewater treatment system performance using engineering principles, long-term monitoring data, applied statistics, and reproducible reporting.\nView framework\n\n\n\nPractical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.\nExplore methods\n\n\n\nUse of Quarto, R, Python, Git, and GitHub to create transparent, repeatable, and well-documented technical analyses.\nView projects\n\n\n\nResources for students, engineers, and early-career professionals interested in applying engineering judgment and statistical thinking.\nLearn more"
+    "section": "Featured Knowledge Areas",
+    "text": "Featured Knowledge Areas\n\n\nTreatment Performance Assessment\nFrameworks for assessing wastewater treatment system performance using engineering principles, long-term monitoring data, applied statistics, and reproducible reporting.\nView framework\n\n\nEngineering Statistics\nPractical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.\nExplore methods\n\n\nReproducible Reporting\nUse of Quarto, R, Python, Git, and GitHub to create transparent, repeatable, and well-documented technical analyses.\nView projects\n\n\nTeaching and Mentoring\nResources for students, engineers, and early-career professionals interested in applying engineering judgment and statistical thinking.\nLearn more"
   },
   {
     "objectID": "index.html#featured-projects",
     "href": "index.html#featured-projects",
     "title": "Evidence-Based Engineering",
-    "section": "",
-    "text": "Treatment Performance Assessment Framework\n\nGeneralized methods for evaluating wastewater treatment system performance.\n\nEngineering Statistics\n\nPractical statistical methods for environmental engineering.\n\nReproducible Reporting\n\nQuarto, Python, R, and Git workflows for transparent technical reporting.\n\nTechnology Assessment Framework\n\nEvidence-based approaches for evaluating environmental technologies."
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nTreatment Performance Assessment Framework\n\nGeneralized methods for evaluating wastewater treatment system performance.\n\nEngineering Statistics\n\nPractical statistical methods for environmental engineering.\n\nReproducible Reporting\n\nQuarto, Python, R, and Git workflows for transparent technical reporting.\n\nTechnology Assessment Framework\n\nEvidence-based approaches for evaluating environmental technologies."
   },
   {
     "objectID": "index.html#guiding-principle",
     "href": "index.html#guiding-principle",
     "title": "Evidence-Based Engineering",
-    "section": "",
-    "text": "Engineering decisions are strongest when they are supported by transparent evidence, reproducible analysis, and clear communication of uncertainty."
+    "section": "Guiding Principle",
+    "text": "Guiding Principle\n\nEngineering decisions are strongest when they are supported by transparent evidence, reproducible analysis, and clear communication of uncertainty."
   },
   {
     "objectID": "index.html#website-roadmap",
     "href": "index.html#website-roadmap",
     "title": "Evidence-Based Engineering",
-    "section": "",
-    "text": "This site will gradually include:\n\ntreatment performance assessment frameworks;\nengineering statistics tutorials;\nreproducible Quarto, R, and Python workflows;\npublic research and publications;\nteaching and mentoring resources;\nreviews of methods, tools, and technical resources."
+    "section": "Website Roadmap",
+    "text": "Website Roadmap\nThis site will gradually include:\n\ntreatment performance assessment frameworks;\nengineering statistics tutorials;\nreproducible Quarto, R, and Python workflows;\npublic research and publications;\nteaching and mentoring resources;\nreviews of methods, tools, and technical resources."
   },
   {
     "objectID": "index.html#current-status",
     "href": "index.html#current-status",
     "title": "Evidence-Based Engineering",
-    "section": "",
-    "text": "The website is under active development.\nFuture additions include:\n\nPublications\nTeaching resources\nTechnical tutorials\nEngineering case studies using synthetic or public data\nDownloadable reference material"
+    "section": "Current Status",
+    "text": "Current Status\nThe website is under active development.\nFuture additions include:\n\nPublications\nTeaching resources\nTechnical tutorials\nEngineering case studies using synthetic or public data\nDownloadable reference material"
   },
   {
     "objectID": "about.html",

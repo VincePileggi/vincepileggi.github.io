@@ -12,12 +12,17 @@ website:
 
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
       - text: "About"
         href: about.qmd
+      - text: "Research"
+        href: research.qmd
       - text: "Reports"
         href: reports.qmd
+      - text: "Reviews"
+        href: reviews.qmd
+
     right:
       - icon: github
         href: https://github.com/VincePileggi/engineering-stats

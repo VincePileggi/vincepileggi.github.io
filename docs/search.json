@@ -42,25 +42,32 @@
     "text": "Downloads\n\nExplosion audit summary (PDF): files/explosion-audit-sample-size-analysis.pdf\nEVT notes (PDF): files/evt-notes.pdf"
   },
   {
-    "objectID": "interests.html",
-    "href": "interests.html",
-    "title": "Interests",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nMy current interests include sharing my statistical inquiries and technical reports I’ve worked that may help others solve similar problems related to applied statistics."
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\nHello! I’m Vince Pileggi, a wastewater engineering expert, with the Ontario Ministry fo the Environment, Conservation and Parks and adjunct professor at the University of Guelph, School of Engineering.\nAside from my regular work I’m particularly passionate about the correct application of statistics to solving engineering problems when appropriate. I use VS Code [@VSCode], Python [@Python], GitHub [@GitHub], RStudio [@rstudio] for technical publishing and of course \\(\\LaTeX\\) [@latex] for high-quality typesetting.\nMy dissertation was focused on municipal sludge treatment using an anaerobic membrane bioreactor and is available though my Research Gate profile [@pileggi_researchgate]. The thesis was written in \\(LaTeX\\) but included as significant amount of R-coding and statistics. It was a lot of fun with some frustration finishing it off 😄!\nThis project hosts statistical analyses and technical notes. Built with Quarto and published via GitHub Pages (Option A, /docs on main)."
+    "objectID": "projects/index.html#featured-projects",
+    "href": "projects/index.html#featured-projects",
+    "title": "Projects",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nTreatment Performance Assessment Framework\nA public-facing example of how long-term wastewater treatment data can be assessed using reproducible reporting, descriptive statistics, reliability-based summaries, and engineering interpretation.\nThis page does not include site names, supplier names, proprietary information, confidential assessments, or project-specific data.\nTopics include:\n\ndescriptive statistics\ntreatment performance\nreliability assessment\nstatistical graphics\nengineering discussion\nreproducible technical reporting"
   },
   {
-    "objectID": "about.html#references",
-    "href": "about.html#references",
-    "title": "About",
-    "section": "References",
-    "text": "References"
+    "objectID": "projects/index.html#projects-under-development",
+    "href": "projects/index.html#projects-under-development",
+    "title": "Projects",
+    "section": "Projects Under Development",
+    "text": "Projects Under Development\n\nWastewater Engineering Statistics\nStatistical methods for evaluating wastewater treatment performance using long-term monitoring data.\nStatus: In development.\n\n\n\nTechnology Assessment Framework\nFrameworks for evidence-based evaluation of wastewater technologies using engineering judgement, uncertainty analysis, and field performance.\nStatus: In development.\n\n\n\nReproducible Reporting\nExamples demonstrating Quarto, Python, R, Git, and GitHub for producing transparent engineering reports.\nStatus: In development.\n\n\n\nEnvironmental Data Analytics\nMethods for analysing environmental monitoring data using reproducible statistical workflows.\nStatus: In development."
+  },
+  {
+    "objectID": "projects/index.html#future-projects",
+    "href": "projects/index.html#future-projects",
+    "title": "Projects",
+    "section": "Future Projects",
+    "text": "Future Projects\nAs this website grows, additional public projects will be added, including:\n\nengineering statistics\nreliability-based assessment\nenvironmental data science\ntechnical writing\nteaching resources\nopen-source tools"
   },
   {
     "objectID": "index.html",
@@ -74,7 +81,7 @@
     "href": "index.html#evidence-based-wastewater-engineering-and-applied-statistics",
     "title": "Evidence-Based Engineering",
     "section": "Evidence-Based Wastewater Engineering and Applied Statistics",
-    "text": "Evidence-Based Wastewater Engineering and Applied Statistics\nI develop and share public, non-confidential resources at the intersection of wastewater engineering, applied statistics, technology assessment, and reproducible technical reporting.\nThis site focuses on engineering statistics, wastewater treatment performance, reliability-based assessment, teaching, publications, and reproducible workflows using tools such as Quarto, R, Python, and GitHub.\n\n\n\n\n\n\nNote\n\n\n\nMaterial on this site reflects my academic and professional interests, including my adjunct professor role at the University of Guelph. It does not represent the views, policies, or positions of my employer."
+    "text": "Evidence-Based Wastewater Engineering and Applied Statistics\nI develop and share public, non-confidential resources at the intersection of wastewater engineering, applied statistics, technology assessment, and reproducible technical reporting.\nThis site focuses on engineering statistics, wastewater treatment performance, reliability-based assessment, teaching, publications, and reproducible workflows using tools such as Quarto, R, Python, and GitHub.\n\n\n\n\n\n\nNoteEducational and Professional Resource\n\n\n\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
   },
   {
     "objectID": "index.html#current-focus",
@@ -98,11 +105,39 @@
     "text": "Site Roadmap\nThis site will gradually include:\n\npublic research and publications;\nwastewater technology assessment methods;\nengineering statistics tutorials;\nreproducible Quarto, R, and Python workflows;\npublic presentations and academic material;\nselected non-confidential technical notes."
   },
   {
-    "objectID": "projects/oxford-hills/index.html",
-    "href": "projects/oxford-hills/index.html",
-    "title": "Oxford Hills Case Study",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nOxford Hills Wastewater Treatment System\nThis page will summarize the first application of the Evidence-Based Technology Assessment Framework.\nPlanned content includes:\n\nproject overview\ntreatment process\nstatistical assessment\nreliability assessment\nconditional reliability\none-page technology assessment summary\nfull technical report"
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\nHello! I’m Vince Pileggi, a wastewater engineering expert, with the Ontario Ministry fo the Environment, Conservation and Parks and adjunct professor at the University of Guelph, School of Engineering.\nAside from my regular work I’m particularly passionate about the correct application of statistics to solving engineering problems when appropriate. I use VS Code [@VSCode], Python [@Python], GitHub [@GitHub], RStudio [@rstudio] for technical publishing and of course \\(\\LaTeX\\) [@latex] for high-quality typesetting.\nMy dissertation was focused on municipal sludge treatment using an anaerobic membrane bioreactor and is available though my Research Gate profile [@pileggi_researchgate]. The thesis was written in \\(LaTeX\\) but included as significant amount of R-coding and statistics. It was a lot of fun with some frustration finishing it off 😄!\nThis project hosts statistical analyses and technical notes. Built with Quarto and published via GitHub Pages (Option A, /docs on main)."
+  },
+  {
+    "objectID": "about.html#guiding-principle",
+    "href": "about.html#guiding-principle",
+    "title": "About",
+    "section": "Guiding Principle",
+    "text": "Guiding Principle\nThis website is dedicated to advancing environmental engineering, applied statistics, and reproducible technical reporting through the sharing of public knowledge and educational resources.\nContent is intentionally presented in a generalized form and emphasizes engineering methods, statistical principles, and reproducible workflows rather than specific projects or assessments.\nAccordingly, this website does not include or disclose:\n\nconfidential assessments;\nfacility, client, municipality, or project names;\nsuppliers, manufacturers, or technology proponents;\nproprietary information;\ninternal analyses or regulatory reviews; or\nunpublished project-specific data.\n\nAny examples presented are illustrative and are based on public information, synthetic datasets, or generalized engineering concepts developed for educational and professional development purposes."
+  },
+  {
+    "objectID": "about.html#references",
+    "href": "about.html#references",
+    "title": "About",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nMy current interests include sharing my statistical inquiries and technical reports I’ve worked that may help others solve similar problems related to applied statistics."
+  },
+  {
+    "objectID": "projects/treatment-performance-assessment/index.html",
+    "href": "projects/treatment-performance-assessment/index.html",
+    "title": "Treatment Performance Assessment Framework",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nTreatment Performance Assessment Framework\nThis project presents a generalized framework for assessing the performance of wastewater treatment systems using engineering principles, applied statistics, and reproducible reporting.\nThe framework is intended for educational and professional development purposes and illustrates methods that can be applied to a wide range of treatment technologies and operating conditions.\nTopics include:\n\ndefining performance objectives\nselecting performance indicators\ndescriptive statistical analysis\ntrend analysis\ntreatment reliability\nuncertainty evaluation\nengineering interpretation\nreproducible reporting using Quarto, Python, and Git"
   },
   {
     "objectID": "research.html",

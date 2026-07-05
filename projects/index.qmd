@@ -1,0 +1,78 @@
+---
+title: "Projects"
+subtitle: "Public engineering, statistical, and reproducible reporting projects"
+toc: false
+---
+
+# Projects
+
+This page provides an overview of my public engineering, applied statistics, and reproducible reporting projects.
+
+The emphasis is on transparent methods, evidence-based decision making, and reproducible technical workflows. All material presented here is public and does not include confidential or proprietary information.
+
+---
+
+## Featured Projects
+
+### [Treatment Performance Assessment Framework](treatment-performance-assessment/index.qmd)
+
+A public-facing example of how long-term wastewater treatment data can be assessed using reproducible reporting, descriptive statistics, reliability-based summaries, and engineering interpretation.
+
+This page does not include site names, supplier names, proprietary information, confidential assessments, or project-specific data.
+
+
+Topics include:
+
+- descriptive statistics
+- treatment performance
+- reliability assessment
+- statistical graphics
+- engineering discussion
+- reproducible technical reporting
+
+---
+
+## Projects Under Development
+
+### Wastewater Engineering Statistics
+
+Statistical methods for evaluating wastewater treatment performance using long-term monitoring data.
+
+Status: *In development.*
+
+---
+
+### Technology Assessment Framework
+
+Frameworks for evidence-based evaluation of wastewater technologies using engineering judgement, uncertainty analysis, and field performance.
+
+Status: *In development.*
+
+---
+
+### Reproducible Reporting
+
+Examples demonstrating Quarto, Python, R, Git, and GitHub for producing transparent engineering reports.
+
+Status: *In development.*
+
+---
+
+### Environmental Data Analytics
+
+Methods for analysing environmental monitoring data using reproducible statistical workflows.
+
+Status: *In development.*
+
+---
+
+## Future Projects
+
+As this website grows, additional public projects will be added, including:
+
+- engineering statistics
+- reliability-based assessment
+- environmental data science
+- technical writing
+- teaching resources
+- open-source tools

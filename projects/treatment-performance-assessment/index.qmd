@@ -1,0 +1,21 @@
+---
+title: "Treatment Performance Assessment Framework"
+subtitle: "A generalized framework for assessing wastewater treatment system performance using engineering principles, applied statistics, and reproducible reporting."
+---
+
+# Treatment Performance Assessment Framework
+
+This project presents a generalized framework for assessing the performance of wastewater treatment systems using engineering principles, applied statistics, and reproducible reporting.
+
+The framework is intended for educational and professional development purposes and illustrates methods that can be applied to a wide range of treatment technologies and operating conditions.
+
+Topics include:
+
+- defining performance objectives
+- selecting performance indicators
+- descriptive statistical analysis
+- trend analysis
+- treatment reliability
+- uncertainty evaluation
+- engineering interpretation
+- reproducible reporting using Quarto, Python, and Git

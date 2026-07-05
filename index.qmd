@@ -12,7 +12,9 @@ I develop and share public, non-confidential resources at the intersection of wa
 This site focuses on engineering statistics, wastewater treatment performance, reliability-based assessment, teaching, publications, and reproducible workflows using tools such as Quarto, R, Python, and GitHub.
 
 ::: {.callout-note}
-Material on this site reflects my academic and professional interests, including my adjunct professor role at the University of Guelph. It does not represent the views, policies, or positions of my employer.
+## Educational and Professional Resource
+
+This website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments.
 :::
 
 ## Current Focus

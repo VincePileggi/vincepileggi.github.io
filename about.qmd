@@ -15,4 +15,22 @@ My dissertation was focused on municipal sludge treatment using an anaerobic mem
 This project hosts statistical analyses and technical notes.
 Built with **Quarto** and published via **GitHub Pages** (Option A, `/docs` on `main`).
 
+## Guiding Principle
+
+This website is dedicated to advancing environmental engineering, applied statistics, and reproducible technical reporting through the sharing of public knowledge and educational resources.
+
+Content is intentionally presented in a generalized form and emphasizes engineering methods, statistical principles, and reproducible workflows rather than specific projects or assessments.
+
+Accordingly, this website does not include or disclose:
+
+- confidential assessments;
+- facility, client, municipality, or project names;
+- suppliers, manufacturers, or technology proponents;
+- proprietary information;
+- internal analyses or regulatory reviews; or
+- unpublished project-specific data.
+
+Any examples presented are illustrative and are based on public information, synthetic datasets, or generalized engineering concepts developed for educational and professional development purposes.
+
+
 ## References

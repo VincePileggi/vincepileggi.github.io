@@ -1,43 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/technology-framework.html</loc>
+    <loc>https://vincepileggi.github.io/engineering-stats/technology-framework.html</loc>
     <lastmod>2026-07-02T00:15:44.667Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/reviews.html</loc>
+    <loc>https://vincepileggi.github.io/engineering-stats/services.html</loc>
     <lastmod>2026-07-01T23:58:32.940Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/reports.html</loc>
+    <loc>https://vincepileggi.github.io/engineering-stats/reports.html</loc>
     <lastmod>2026-07-01T23:58:32.940Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/projects/index.html</loc>
-    <lastmod>2026-07-05T00:23:47.300Z</lastmod>
+    <loc>https://vincepileggi.github.io/engineering-stats/projects/treatment-performance-assessment/index.html</loc>
+    <lastmod>2026-07-05T12:59:46.001Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/index.html</loc>
-    <lastmod>2026-07-05T00:14:22.572Z</lastmod>
+    <loc>https://vincepileggi.github.io/engineering-stats/projects/reproducible-reporting/index.html</loc>
+    <lastmod>2026-07-05T13:08:23.980Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/about.html</loc>
-    <lastmod>2026-07-05T00:23:43.423Z</lastmod>
+    <loc>https://vincepileggi.github.io/engineering-stats/projects/environmental-data-analytics/index.html</loc>
+    <lastmod>2026-07-05T13:07:53.745Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/interests.html</loc>
+    <loc>https://vincepileggi.github.io/engineering-stats/projects/decision-support-tools/index.html</loc>
+    <lastmod>2026-07-05T13:09:15.124Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vincepileggi.github.io/engineering-stats/index.html</loc>
+    <lastmod>2026-07-05T12:50:44.812Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vincepileggi.github.io/engineering-stats/about.html</loc>
+    <lastmod>2026-07-05T12:21:52.624Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vincepileggi.github.io/engineering-stats/interests.html</loc>
     <lastmod>2026-07-01T23:58:32.940Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/projects/treatment-performance-assessment/index.html</loc>
-    <lastmod>2026-07-05T00:23:34.355Z</lastmod>
+    <loc>https://vincepileggi.github.io/engineering-stats/projects/engineering-statitstics/index.html</loc>
+    <lastmod>2026-07-05T13:07:33.774Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/research.html</loc>
-    <lastmod>2026-07-01T23:58:32.940Z</lastmod>
+    <loc>https://vincepileggi.github.io/engineering-stats/projects/index.html</loc>
+    <lastmod>2026-07-05T13:15:26.651Z</lastmod>
   </url>
   <url>
-    <loc>https://VincePileggi.github.io/engineering-stats/services.html</loc>
-    <lastmod>2026-07-01T23:58:32.940Z</lastmod>
+    <loc>https://vincepileggi.github.io/engineering-stats/projects/technology-assessment-framework/index.html</loc>
+    <lastmod>2026-07-05T13:08:41.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vincepileggi.github.io/engineering-stats/publications.html</loc>
+    <lastmod>2026-07-05T12:07:23.865Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vincepileggi.github.io/engineering-stats/resources.html</loc>
+    <lastmod>2026-07-05T12:07:41.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vincepileggi.github.io/engineering-stats/teaching.html</loc>
+    <lastmod>2026-07-05T12:05:23.299Z</lastmod>
   </url>
 </urlset>

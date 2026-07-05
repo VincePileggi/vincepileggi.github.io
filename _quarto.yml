@@ -8,24 +8,25 @@ project:
     
 website:
   title: "Evidence-Based Engineering"
-  site-url: https://VincePileggi.github.io/engineering-stats/
+  site-url: "https://vincepileggi.github.io/engineering-stats/"
 
   navbar:
     left:
-      - text: "Projects"
-        href: projects/index.qmd
+      - text: "Home"
+        href: index.qmd
       - text: "About"
         href: about.qmd
-      - text: "Research"
-        href: research.qmd
-      - text: "Reports"
-        href: reports.qmd
-      - text: "Reviews"
-        href: reviews.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Resources"
+        href: resources.qmd
 
     right:
       - icon: github
-        href: https://github.com/VincePileggi/engineering-stats
+        href: "https://github.com/VincePileggi/engineering-stats"
+
   search: true
   page-navigation: true
 
@@ -33,6 +34,11 @@ format:
   html:
     theme: cosmo
     toc: true
+    smooth-scroll: true
+    page-footer:
+      left: "© 2024 Vince Pileggi"
+      center: "Evidence-Based Engineering"
+      right: "Built with Quarto"  
     number-sections: false
     css: styles.css
     include-before-body: notice.html

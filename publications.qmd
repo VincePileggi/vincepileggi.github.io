@@ -1,5 +1,7 @@
 ---
-title: "My Research"
+title: "Publications"
 ---
+
+This section will contain journal papers, conference presentations, technical reports, and research summaries suitable for public release.
 
 You can find my publications and ongoing research on my [ResearchGate profile](@pileggi_researchgate). My current CV is available for download here [CV]((files/VPileggi_CV_August_2025.pdf){target="_blank"})

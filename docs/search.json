@@ -7,11 +7,11 @@
     "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nTechnology Assessment Framework\nThis section is under development.\nThe framework will describe a standardized evidence-based methodology for evaluating wastewater treatment technologies using engineering, statistical, compliance, reliability, and conditional reliability analyses.\nMore content will be added as the framework evolves."
   },
   {
-    "objectID": "reviews.html",
-    "href": "reviews.html",
-    "title": "Book Reviews",
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
     "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThe following is a short list of books and papers, with links, that I’ve referenced for various work that I’ve done. I give the book or article link with a short description of how I used it and the reference report.\n\nbook 1\nbook 1"
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nServices\nI provide statistical consulting, data analysis, literature reviews and technical report reviews."
   },
   {
     "objectID": "reports.html",
@@ -42,32 +42,74 @@
     "text": "Downloads\n\nExplosion audit summary (PDF): files/explosion-audit-sample-size-analysis.pdf\nEVT notes (PDF): files/evt-notes.pdf"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "projects/treatment-performance-assessment/index.html",
+    "href": "projects/treatment-performance-assessment/index.html",
+    "title": "Treatment Performance Assessment Framework",
     "section": "",
     "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
   },
   {
-    "objectID": "projects/index.html#featured-projects",
-    "href": "projects/index.html#featured-projects",
-    "title": "Projects",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nTreatment Performance Assessment Framework\nA public-facing example of how long-term wastewater treatment data can be assessed using reproducible reporting, descriptive statistics, reliability-based summaries, and engineering interpretation.\nThis page does not include site names, supplier names, proprietary information, confidential assessments, or project-specific data.\nTopics include:\n\ndescriptive statistics\ntreatment performance\nreliability assessment\nstatistical graphics\nengineering discussion\nreproducible technical reporting"
+    "objectID": "projects/treatment-performance-assessment/index.html#purpose",
+    "href": "projects/treatment-performance-assessment/index.html#purpose",
+    "title": "Treatment Performance Assessment Framework",
+    "section": "Purpose",
+    "text": "Purpose\nThis framework presents a generalized approach for assessing the performance of wastewater treatment systems using engineering principles, applied statistics, and reproducible analytical workflows.\nThe material is intended for educational and professional development purposes and does not represent any specific facility, organization, supplier, technology proponent, or regulatory assessment."
   },
   {
-    "objectID": "projects/index.html#projects-under-development",
-    "href": "projects/index.html#projects-under-development",
-    "title": "Projects",
-    "section": "Projects Under Development",
-    "text": "Projects Under Development\n\nWastewater Engineering Statistics\nStatistical methods for evaluating wastewater treatment performance using long-term monitoring data.\nStatus: In development.\n\n\n\nTechnology Assessment Framework\nFrameworks for evidence-based evaluation of wastewater technologies using engineering judgement, uncertainty analysis, and field performance.\nStatus: In development.\n\n\n\nReproducible Reporting\nExamples demonstrating Quarto, Python, R, Git, and GitHub for producing transparent engineering reports.\nStatus: In development.\n\n\n\nEnvironmental Data Analytics\nMethods for analysing environmental monitoring data using reproducible statistical workflows.\nStatus: In development."
+    "objectID": "projects/treatment-performance-assessment/index.html#objectives",
+    "href": "projects/treatment-performance-assessment/index.html#objectives",
+    "title": "Treatment Performance Assessment Framework",
+    "section": "Objectives",
+    "text": "Objectives\nThe framework supports:\n\nobjective performance assessment;\nevidence-based engineering decisions;\nstatistical interpretation of monitoring data;\ntransparent technical reporting;\nreproducible analytical workflows."
   },
   {
-    "objectID": "projects/index.html#future-projects",
-    "href": "projects/index.html#future-projects",
-    "title": "Projects",
-    "section": "Future Projects",
-    "text": "Future Projects\nAs this website grows, additional public projects will be added, including:\n\nengineering statistics\nreliability-based assessment\nenvironmental data science\ntechnical writing\nteaching resources\nopen-source tools"
+    "objectID": "projects/treatment-performance-assessment/index.html#assessment-framework",
+    "href": "projects/treatment-performance-assessment/index.html#assessment-framework",
+    "title": "Treatment Performance Assessment Framework",
+    "section": "Assessment Framework",
+    "text": "Assessment Framework\nThe assessment process consists of the following stages:\n\nDefine assessment objectives.\nUnderstand the treatment system.\nEvaluate monitoring data quality.\nSelect performance indicators.\nApply descriptive statistical methods.\nAssess trends and variability.\nEvaluate treatment reliability.\nCommunicate uncertainty.\nDevelop engineering conclusions.\nDocument methods and assumptions."
+  },
+  {
+    "objectID": "projects/treatment-performance-assessment/index.html#core-topics",
+    "href": "projects/treatment-performance-assessment/index.html#core-topics",
+    "title": "Treatment Performance Assessment Framework",
+    "section": "Core Topics",
+    "text": "Core Topics\nFuture sections will include:\n\nperformance indicators;\nstatistical summaries;\ntreatment reliability;\nuncertainty analysis;\ndata visualization;\nreproducible reporting;\nengineering interpretation;\nbest practices."
+  },
+  {
+    "objectID": "projects/treatment-performance-assessment/index.html#guiding-principle",
+    "href": "projects/treatment-performance-assessment/index.html#guiding-principle",
+    "title": "Treatment Performance Assessment Framework",
+    "section": "Guiding Principle",
+    "text": "Guiding Principle\nEngineering assessments should be transparent, reproducible, evidence-based, and clearly communicate both conclusions and uncertainty."
+  },
+  {
+    "objectID": "projects/treatment-performance-assessment/index.html#confidentiality",
+    "href": "projects/treatment-performance-assessment/index.html#confidentiality",
+    "title": "Treatment Performance Assessment Framework",
+    "section": "Confidentiality",
+    "text": "Confidentiality\nThis framework presents generalized engineering methods only. Any examples used throughout this website are illustrative and do not represent actual facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
+  },
+  {
+    "objectID": "projects/reproducible-reporting/index.html",
+    "href": "projects/reproducible-reporting/index.html",
+    "title": "Reproducible Technical Reporting",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThis project is under development."
+  },
+  {
+    "objectID": "projects/environmental-data-analytics/index.html",
+    "href": "projects/environmental-data-analytics/index.html",
+    "title": "Environmental Data Analytics",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThis project is under development."
+  },
+  {
+    "objectID": "projects/decision-support-tools/index.html",
+    "href": "projects/decision-support-tools/index.html",
+    "title": "Engineering Decision Support Tools",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThis project is under development."
   },
   {
     "objectID": "index.html",
@@ -77,18 +119,25 @@
     "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
   },
   {
-    "objectID": "index.html#evidence-based-wastewater-engineering-and-applied-statistics",
-    "href": "index.html#evidence-based-wastewater-engineering-and-applied-statistics",
+    "objectID": "index.html#environmental-engineering-applied-statistics-reproducible-technical-reporting",
+    "href": "index.html#environmental-engineering-applied-statistics-reproducible-technical-reporting",
     "title": "Evidence-Based Engineering",
-    "section": "Evidence-Based Wastewater Engineering and Applied Statistics",
-    "text": "Evidence-Based Wastewater Engineering and Applied Statistics\nI develop and share public, non-confidential resources at the intersection of wastewater engineering, applied statistics, technology assessment, and reproducible technical reporting.\nThis site focuses on engineering statistics, wastewater treatment performance, reliability-based assessment, teaching, publications, and reproducible workflows using tools such as Quarto, R, Python, and GitHub.\n\n\n\n\n\n\nNoteEducational and Professional Resource\n\n\n\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
+    "section": "Environmental Engineering • Applied Statistics • Reproducible Technical Reporting",
+    "text": "Environmental Engineering • Applied Statistics • Reproducible Technical Reporting\nWelcome to Evidence-Based Engineering, a public knowledge base dedicated to advancing environmental engineering through evidence-based methods, applied statistics, and reproducible technical reporting.\nThis website shares generalized engineering frameworks, educational resources, and analytical workflows for engineers, students, researchers, and technical professionals.\n\n\n\n\n\n\nNoteEducational and Professional Resource\n\n\n\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
   },
   {
-    "objectID": "index.html#current-focus",
-    "href": "index.html#current-focus",
+    "objectID": "index.html#featured-knowledge-areas",
+    "href": "index.html#featured-knowledge-areas",
     "title": "Evidence-Based Engineering",
-    "section": "Current Focus",
-    "text": "Current Focus\n\n\nWastewater Technology Assessment\nReliability-based approaches for evaluating wastewater treatment performance using long-term field data, engineering interpretation, and probability-based metrics.\nTechnology framework\n\n\nEngineering Statistics\nPractical statistical methods for environmental and civil engineering, including reliability analysis, uncertainty, visualization, and reproducible reporting.\nExplore methods\n\n\nReports and Technical Notes\nSelected public, non-confidential technical notes, research summaries, and reproducible examples related to wastewater and environmental engineering.\nView reports\n\n\nTeaching and Mentoring\nResources for students, engineers, and early-career professionals interested in applying statistics and reproducible workflows to engineering problems.\nTeaching resources"
+    "section": "Featured Knowledge Areas",
+    "text": "Featured Knowledge Areas\n\n\nTreatment Performance Assessment\nFrameworks for assessing wastewater treatment system performance using engineering principles, long-term monitoring data, applied statistics, and reproducible reporting.\nView framework\n\n\n\nEngineering Statistics\nPractical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.\nExplore methods\n\n\nReproducible Reporting\nUse of Quarto, R, Python, Git, and GitHub to create transparent, repeatable, and well-documented technical analyses.\nView projects\n\n\nTeaching and Mentoring\nResources for students, engineers, and early-career professionals interested in applying engineering judgment and statistical thinking.\nLearn more\n\n\n\n\nFeatured Projects\n\nTreatment Performance Assessment Framework\n\nGeneralized methods for evaluating wastewater treatment system performance.\n\nEngineering Statistics\n\nPractical statistical methods for environmental engineering.\n\nReproducible Reporting\n\nQuarto, Python, R, and Git workflows for transparent technical reporting.\n\nTechnology Assessment Framework\n\nEvidence-based approaches for evaluating environmental technologies.\n\n\n\n\nGuiding Principle\n\nEngineering decisions are strongest when they are supported by transparent evidence, reproducible analysis, and clear communication of uncertainty.\n\n\n\n\nWebsite Roadmap\nThis site will gradually include:\n\ntreatment performance assessment frameworks;\nengineering statistics tutorials;\nreproducible Quarto, R, and Python workflows;\npublic research and publications;\nteaching and mentoring resources;\nreviews of methods, tools, and technical resources.\n\n\n\n\nCurrent Status\nThe website is under active development.\nFuture additions include:\n\nPublications\nTeaching resources\nTechnical tutorials\nEngineering case studies using synthetic or public data\nDownloadable reference material"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Evidence-Based Engineering",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nTreatment Performance Assessment Framework\n\nGeneralized methods for evaluating wastewater treatment system performance.\n\nEngineering Statistics\n\nPractical statistical methods for environmental engineering.\n\nReproducible Reporting\n\nQuarto, Python, R, and Git workflows for transparent technical reporting.\n\nTechnology Assessment Framework\n\nEvidence-based approaches for evaluating environmental technologies."
   },
   {
     "objectID": "index.html#guiding-principle",
@@ -98,32 +147,81 @@
     "text": "Guiding Principle\n\nEngineering decisions are strongest when they are supported by transparent evidence, reproducible analysis, and clear communication of uncertainty."
   },
   {
-    "objectID": "index.html#site-roadmap",
-    "href": "index.html#site-roadmap",
+    "objectID": "index.html#website-roadmap",
+    "href": "index.html#website-roadmap",
     "title": "Evidence-Based Engineering",
-    "section": "Site Roadmap",
-    "text": "Site Roadmap\nThis site will gradually include:\n\npublic research and publications;\nwastewater technology assessment methods;\nengineering statistics tutorials;\nreproducible Quarto, R, and Python workflows;\npublic presentations and academic material;\nselected non-confidential technical notes."
+    "section": "Website Roadmap",
+    "text": "Website Roadmap\nThis site will gradually include:\n\ntreatment performance assessment frameworks;\nengineering statistics tutorials;\nreproducible Quarto, R, and Python workflows;\npublic research and publications;\nteaching and mentoring resources;\nreviews of methods, tools, and technical resources."
+  },
+  {
+    "objectID": "index.html#current-status",
+    "href": "index.html#current-status",
+    "title": "Evidence-Based Engineering",
+    "section": "Current Status",
+    "text": "Current Status\nThe website is under active development.\nFuture additions include:\n\nPublications\nTeaching resources\nTechnical tutorials\nEngineering case studies using synthetic or public data\nDownloadable reference material"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\nHello! I’m Vince Pileggi, a wastewater engineering expert, with the Ontario Ministry fo the Environment, Conservation and Parks and adjunct professor at the University of Guelph, School of Engineering.\nAside from my regular work I’m particularly passionate about the correct application of statistics to solving engineering problems when appropriate. I use VS Code [@VSCode], Python [@Python], GitHub [@GitHub], RStudio [@rstudio] for technical publishing and of course \\(\\LaTeX\\) [@latex] for high-quality typesetting.\nMy dissertation was focused on municipal sludge treatment using an anaerobic membrane bioreactor and is available though my Research Gate profile [@pileggi_researchgate]. The thesis was written in \\(LaTeX\\) but included as significant amount of R-coding and statistics. It was a lot of fun with some frustration finishing it off 😄!\nThis project hosts statistical analyses and technical notes. Built with Quarto and published via GitHub Pages (Option A, /docs on main)."
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
   },
   {
-    "objectID": "about.html#guiding-principle",
-    "href": "about.html#guiding-principle",
+    "objectID": "about.html#professional-profile",
+    "href": "about.html#professional-profile",
     "title": "About",
-    "section": "Guiding Principle",
-    "text": "Guiding Principle\nThis website is dedicated to advancing environmental engineering, applied statistics, and reproducible technical reporting through the sharing of public knowledge and educational resources.\nContent is intentionally presented in a generalized form and emphasizes engineering methods, statistical principles, and reproducible workflows rather than specific projects or assessments.\nAccordingly, this website does not include or disclose:\n\nconfidential assessments;\nfacility, client, municipality, or project names;\nsuppliers, manufacturers, or technology proponents;\nproprietary information;\ninternal analyses or regulatory reviews; or\nunpublished project-specific data.\n\nAny examples presented are illustrative and are based on public information, synthetic datasets, or generalized engineering concepts developed for educational and professional development purposes."
+    "section": "Professional Profile",
+    "text": "Professional Profile\nI am an environmental engineer with over three decades of experience in wastewater engineering, environmental monitoring, applied statistics, and technical assessment.\nMy interests include integrating engineering judgment with statistical analysis to support transparent, evidence-based decision making. I am particularly interested in developing reproducible analytical workflows that improve technical communication and facilitate knowledge sharing across the engineering profession."
   },
   {
-    "objectID": "about.html#references",
-    "href": "about.html#references",
+    "objectID": "about.html#credentials",
+    "href": "about.html#credentials",
     "title": "About",
-    "section": "References",
-    "text": "References"
+    "section": "Credentials",
+    "text": "Credentials\n\nPh.D.\nProfessional Engineer (P.Eng.)\nAdjunct Professor, University of Guelph\nEnvironmental Engineering\nApplied Statistics\nTechnical Writing\nReproducible Research"
+  },
+  {
+    "objectID": "about.html#areas-of-expertise",
+    "href": "about.html#areas-of-expertise",
+    "title": "About",
+    "section": "Areas of Expertise",
+    "text": "Areas of Expertise\n\n\nEnvironmental Engineering\nWastewater treatment, monitoring data, treatment system performance, and engineering interpretation.\n\n\nApplied Statistics\nDescriptive statistics, uncertainty, reliability, visualization, and practical statistical communication.\n\n\nReproducible Reporting\nQuarto, R, Python, Git, GitHub, and transparent technical workflows.\n\n\nTeaching and Mentoring\nEngineering education, professional development, plain-language technical writing, and student support."
+  },
+  {
+    "objectID": "about.html#current-interests",
+    "href": "about.html#current-interests",
+    "title": "About",
+    "section": "Current Interests",
+    "text": "Current Interests\nCurrent areas of interest include:\n\nEvidence-based environmental engineering\nTreatment performance assessment\nApplied statistics for engineering\nReproducible reporting using Quarto\nPython and R for environmental data analysis\nEngineering education and mentoring\nTechnical communication in plain language"
+  },
+  {
+    "objectID": "about.html#professional-philosophy",
+    "href": "about.html#professional-philosophy",
+    "title": "About",
+    "section": "Professional Philosophy",
+    "text": "Professional Philosophy\nEngineering decisions should be based on clear objectives, reliable data, appropriate analysis, transparent assumptions, and plain-language communication.\nGood technical work should not only produce answers; it should also explain how those answers were developed, what uncertainty remains, and how the results should be interpreted."
+  },
+  {
+    "objectID": "about.html#guiding-principles",
+    "href": "about.html#guiding-principles",
+    "title": "About",
+    "section": "Guiding Principles",
+    "text": "Guiding Principles\n\nTeach methods, not projects.\nUse evidence before opinion.\nCommunicate uncertainty clearly.\nPrefer reproducible workflows.\nKeep public examples generalized, synthetic, or based on public information.\nAvoid disclosing confidential, proprietary, or project-specific information."
+  },
+  {
+    "objectID": "about.html#educational-and-professional-resource",
+    "href": "about.html#educational-and-professional-resource",
+    "title": "About",
+    "section": "Educational and Professional Resource",
+    "text": "Educational and Professional Resource\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFor now, please use the GitHub link in the navigation bar.\n\n\nThe objective of this website is to advance environmental engineering through the sharing of public knowledge, evidence-based methods, and reproducible analytical workflows."
   },
   {
     "objectID": "interests.html",
@@ -133,24 +231,80 @@
     "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nMy current interests include sharing my statistical inquiries and technical reports I’ve worked that may help others solve similar problems related to applied statistics."
   },
   {
-    "objectID": "projects/treatment-performance-assessment/index.html",
-    "href": "projects/treatment-performance-assessment/index.html",
-    "title": "Treatment Performance Assessment Framework",
+    "objectID": "projects/engineering-statitstics/index.html",
+    "href": "projects/engineering-statitstics/index.html",
+    "title": "Applied Statistics for Engineering",
     "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nTreatment Performance Assessment Framework\nThis project presents a generalized framework for assessing the performance of wastewater treatment systems using engineering principles, applied statistics, and reproducible reporting.\nThe framework is intended for educational and professional development purposes and illustrates methods that can be applied to a wide range of treatment technologies and operating conditions.\nTopics include:\n\ndefining performance objectives\nselecting performance indicators\ndescriptive statistical analysis\ntrend analysis\ntreatment reliability\nuncertainty evaluation\nengineering interpretation\nreproducible reporting using Quarto, Python, and Git"
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "My Research",
-    "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nYou can find my publications and ongoing research on my ResearchGate profile. My current CV is available for download here CV"
+    "objectID": "projects/engineering-statitstics/index.html#purpose",
+    "href": "projects/engineering-statitstics/index.html#purpose",
+    "title": "Applied Statistics for Engineering",
+    "section": "Purpose",
+    "text": "Purpose\nThis project presents practical statistical methods that support evidence-based engineering decisions using environmental and engineering data."
   },
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
+    "objectID": "projects/engineering-statitstics/index.html#topics",
+    "href": "projects/engineering-statitstics/index.html#topics",
+    "title": "Applied Statistics for Engineering",
+    "section": "Topics",
+    "text": "Topics\nFuture topics include:\n\nDescriptive statistics\nExploratory data analysis\nProbability distributions\nConfidence intervals\nHypothesis testing\nRegression\nCorrelation\nReliability analysis\nTime-series analysis\nData visualization\nUncertainty analysis\nPractical interpretation"
+  },
+  {
+    "objectID": "projects/engineering-statitstics/index.html#audience",
+    "href": "projects/engineering-statitstics/index.html#audience",
+    "title": "Applied Statistics for Engineering",
+    "section": "Audience",
+    "text": "Audience\n\nEngineers\nScientists\nStudents\nResearchers"
+  },
+  {
+    "objectID": "projects/engineering-statitstics/index.html#guiding-principle",
+    "href": "projects/engineering-statitstics/index.html#guiding-principle",
+    "title": "Applied Statistics for Engineering",
+    "section": "Guiding Principle",
+    "text": "Guiding Principle\nStatistical analysis should improve engineering understanding rather than simply produce numerical results."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\n\nServices\nI provide statistical consulting, data analysis, literature reviews and technical report reviews."
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move."
+  },
+  {
+    "objectID": "projects/index.html#project-catalogue",
+    "href": "projects/index.html#project-catalogue",
+    "title": "Projects",
+    "section": "Project Catalogue",
+    "text": "Project Catalogue\n\n\nTreatment Performance Assessment Framework\nGeneralized methods for evaluating wastewater treatment system performance using engineering principles, applied statistics, and reproducible reporting.\n\n\nApplied Statistics for Engineering\nPractical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.\n\n\nReproducible Technical Reporting\nTransparent reporting workflows using Quarto, Python, R, Git, and GitHub.\n\n\nEnvironmental Data Analytics\nMethods for exploring, visualizing, and interpreting environmental monitoring data.\n\n\nTechnology Assessment Framework\nEvidence-based approaches for evaluating environmental technologies using transparent and technology-neutral criteria.\n\n\nEngineering Decision Support Tools\nFrameworks and tools that support engineering decisions using data, statistics, uncertainty, and clear communication."
+  },
+  {
+    "objectID": "projects/technology-assessment-framework/index.html",
+    "href": "projects/technology-assessment-framework/index.html",
+    "title": "Technology Assessment Framework",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThis project is under development."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThis section will contain journal papers, conference presentations, technical reports, and research summaries suitable for public release.\nYou can find my publications and ongoing research on my ResearchGate profile. My current CV is available for download here CV"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nThis section will contain tutorials, engineering references, Quarto, Python, R, statistical methods, and recommended resources."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "🚧 This website is actively being built. Some pages may be incomplete or move.\n\n\n\n\n\n\n\nComing soon."
   }
 ]

@@ -1,15 +1,16 @@
 ---
 title: "Evidence-Based Engineering"
-subtitle: "Applied statistics, environmental engineering, and reproducible analysis"
+subtitle: "Environmental engineering, applied statistics, and reproducible technical reporting"
+toc: true
 ---
 
-# Vince Pileggi, Ph.D., P.Eng.
+# Evidence-Based Engineering
 
-## Evidence-Based Wastewater Engineering and Applied Statistics
+## Environmental Engineering • Applied Statistics • Reproducible Technical Reporting
 
-I develop and share public, non-confidential resources at the intersection of wastewater engineering, applied statistics, technology assessment, and reproducible technical reporting.
+Welcome to **Evidence-Based Engineering**, a public knowledge base dedicated to advancing environmental engineering through evidence-based methods, applied statistics, and reproducible technical reporting.
 
-This site focuses on engineering statistics, wastewater treatment performance, reliability-based assessment, teaching, publications, and reproducible workflows using tools such as Quarto, R, Python, and GitHub.
+This website shares generalized engineering frameworks, educational resources, and analytical workflows for engineers, students, researchers, and technical professionals.
 
 ::: {.callout-note}
 ## Educational and Professional Resource
@@ -17,55 +18,89 @@ This site focuses on engineering statistics, wastewater treatment performance, r
 This website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments.
 :::
 
-## Current Focus
+---
+
+## Featured Knowledge Areas
 
 ::: {.grid}
 
 ::: {.g-col-6}
-### Wastewater Technology Assessment
+### Treatment Performance Assessment
 
-Reliability-based approaches for evaluating wastewater treatment performance using long-term field data, engineering interpretation, and probability-based metrics.
+Frameworks for assessing wastewater treatment system performance using engineering principles, long-term monitoring data, applied statistics, and reproducible reporting.
 
-[Technology framework](technology-framework.qmd)
+[View framework](projects/treatment-performance-assessment/)
 :::
 
 ::: {.g-col-6}
 ### Engineering Statistics
 
-Practical statistical methods for environmental and civil engineering, including reliability analysis, uncertainty, visualization, and reproducible reporting.
+Practical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.
 
-[Explore methods](research.qmd)
-:::
+[Explore methods](projects/)
 
 ::: {.g-col-6}
-### Reports and Technical Notes
+### Reproducible Reporting
 
-Selected public, non-confidential technical notes, research summaries, and reproducible examples related to wastewater and environmental engineering.
+Use of Quarto, R, Python, Git, and GitHub to create transparent, repeatable, and well-documented technical analyses.
 
-[View reports](reports.qmd)
+[View projects](projects/)
 :::
 
 ::: {.g-col-6}
 ### Teaching and Mentoring
 
-Resources for students, engineers, and early-career professionals interested in applying statistics and reproducible workflows to engineering problems.
+Resources for students, engineers, and early-career professionals interested in applying engineering judgment and statistical thinking.
 
-[Teaching resources](services.qmd)
+[Learn more](about.qmd)
 :::
 
 :::
+
+---
+
+## Featured Projects
+
+- **Treatment Performance Assessment Framework**
+  - Generalized methods for evaluating wastewater treatment system performance.
+
+- **Engineering Statistics**
+  - Practical statistical methods for environmental engineering.
+
+- **Reproducible Reporting**
+  - Quarto, Python, R, and Git workflows for transparent technical reporting.
+
+- **Technology Assessment Framework**
+  - Evidence-based approaches for evaluating environmental technologies.
+
 
 ## Guiding Principle
 
 > Engineering decisions are strongest when they are supported by transparent evidence, reproducible analysis, and clear communication of uncertainty.
 
-## Site Roadmap
+---
+
+## Website Roadmap
 
 This site will gradually include:
 
-- public research and publications;
-- wastewater technology assessment methods;
+- treatment performance assessment frameworks;
 - engineering statistics tutorials;
 - reproducible Quarto, R, and Python workflows;
-- public presentations and academic material;
-- selected non-confidential technical notes.
+- public research and publications;
+- teaching and mentoring resources;
+- reviews of methods, tools, and technical resources.
+
+---
+
+## Current Status
+
+The website is under active development.
+
+Future additions include:
+
+- Publications
+- Teaching resources
+- Technical tutorials
+- Engineering case studies using synthetic or public data
+- Downloadable reference material

@@ -1,78 +1,53 @@
 ---
 title: "Projects"
-subtitle: "Public engineering, statistical, and reproducible reporting projects"
+subtitle: "Engineering frameworks, statistical methods, and reproducible workflows"
 toc: false
 ---
 
 # Projects
 
-This page provides an overview of my public engineering, applied statistics, and reproducible reporting projects.
+These projects present generalized engineering methods, analytical frameworks, and reproducible workflows for education and professional development.
 
-The emphasis is on transparent methods, evidence-based decision making, and reproducible technical workflows. All material presented here is public and does not include confidential or proprietary information.
+All content is technology-neutral and does not reference confidential assessments, specific facilities, suppliers, organizations, or regulatory reviews.
 
----
+## Project Catalogue
 
-## Featured Projects
+::: {.grid}
 
-### [Treatment Performance Assessment Framework](treatment-performance-assessment/index.qmd)
+::: {.g-col-6}
+### [Treatment Performance Assessment Framework](treatment-performance-assessment/)
 
-A public-facing example of how long-term wastewater treatment data can be assessed using reproducible reporting, descriptive statistics, reliability-based summaries, and engineering interpretation.
+Generalized methods for evaluating wastewater treatment system performance using engineering principles, applied statistics, and reproducible reporting.
+:::
 
-This page does not include site names, supplier names, proprietary information, confidential assessments, or project-specific data.
+::: {.g-col-6}
+### [Applied Statistics for Engineering](engineering-statistics/)
 
+Practical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.
+:::
 
-Topics include:
+::: {.g-col-6}
+### [Reproducible Technical Reporting](reproducible-reporting/)
 
-- descriptive statistics
-- treatment performance
-- reliability assessment
-- statistical graphics
-- engineering discussion
-- reproducible technical reporting
+Transparent reporting workflows using Quarto, Python, R, Git, and GitHub.
+:::
 
----
+::: {.g-col-6}
+### [Environmental Data Analytics](environmental-data-analytics/)
 
-## Projects Under Development
+Methods for exploring, visualizing, and interpreting environmental monitoring data.
+:::
 
-### Wastewater Engineering Statistics
+::: {.g-col-6}
+### [Technology Assessment Framework](technology-assessment-framework/)
 
-Statistical methods for evaluating wastewater treatment performance using long-term monitoring data.
+Evidence-based approaches for evaluating environmental technologies using transparent and technology-neutral criteria.
+:::
 
-Status: *In development.*
+::: {.g-col-6}
+### [Engineering Decision Support Tools](decision-support-tools/)
 
----
+Frameworks and tools that support engineering decisions using data, statistics, uncertainty, and clear communication.
+:::
 
-### Technology Assessment Framework
-
-Frameworks for evidence-based evaluation of wastewater technologies using engineering judgement, uncertainty analysis, and field performance.
-
-Status: *In development.*
-
----
-
-### Reproducible Reporting
-
-Examples demonstrating Quarto, Python, R, Git, and GitHub for producing transparent engineering reports.
-
-Status: *In development.*
-
----
-
-### Environmental Data Analytics
-
-Methods for analysing environmental monitoring data using reproducible statistical workflows.
-
-Status: *In development.*
-
----
-
-## Future Projects
-
-As this website grows, additional public projects will be added, including:
-
-- engineering statistics
-- reliability-based assessment
-- environmental data science
-- technical writing
-- teaching resources
-- open-source tools
+:::

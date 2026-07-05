@@ -1,28 +1,91 @@
-/* Headings & spacing */
-h1, h2 { margin-top: 1.2rem; }
+/* ==========================================================
+   Evidence-Based Engineering
+   Custom Website Styles
+   ========================================================== */
 
-/* Simple hero band */
+/* Headings */
+
+h1 {
+  color: #003366;
+  font-weight: 700;
+}
+
+h2 {
+  color: #005a9c;
+  margin-top: 2rem;
+}
+
+/* Subtitle */
+
+.quarto-title-meta,
+.subtitle {
+  color: #666666;
+}
+
+/* Headings spacing */
+
+h1,
+h2 {
+  margin-top: 1.2rem;
+}
+
+/* Hero */
+
 .hero {
   background: #f8f9fa;
   border-radius: 1rem;
   padding: 2rem 1.25rem;
   margin-bottom: 1.5rem;
 }
-.hero .btn { margin-right: .5rem; margin-top: .5rem; }
 
-/* Navbar brand emphasis */
-.navbar-brand { font-weight: 700; letter-spacing: .2px; }
-
-/* Subtle link hover */
-a:hover { text-decoration: underline; }
-
-.site-banner{
-  background:#fff3cd;           /* Bootstrap "warning" */
-  color:#664d03;
-  border:1px solid #ffe69c;
-  padding:.6rem 1rem;
-  text-align:center;
-  margin:0 0 1rem 0;            /* space below the banner */
-  font-weight:500;
+.hero .btn {
+  margin-right: .5rem;
+  margin-top: .5rem;
 }
 
+/* Cards */
+
+.callout {
+  border-radius: 8px;
+}
+
+/* Images */
+
+img {
+  border-radius: 8px;
+}
+
+/* Navbar */
+
+.navbar {
+  font-size: 1.05rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: .2px;
+}
+
+/* Links */
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Banner */
+
+.site-banner {
+  background: #fff3cd;
+  color: #664d03;
+  border: 1px solid #ffe69c;
+  padding: .6rem 1rem;
+  text-align: center;
+  margin: 0 0 1rem 0;
+  font-weight: 500;
+}
+
+/* Footer */
+
+.page-footer {
+  font-size: 0.9rem;
+}

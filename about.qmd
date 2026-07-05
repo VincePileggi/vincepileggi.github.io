@@ -1,36 +1,94 @@
 ---
 title: "About"
+subtitle: "Environmental engineering, applied statistics, and reproducible technical reporting"
+toc: true
 ---
 
+# Vince Pileggi, Ph.D., P.Eng.
 
-![Vince Pileggi, Ph.D., P.Eng.](images/MeInAfrica.png){width=200px}
+## Professional Profile
 
-Hello! I'm Vince Pileggi, a wastewater engineering expert, with the Ontario Ministry fo the Environment, Conservation and Parks and adjunct professor at the University of Guelph, School of Engineering.
+I am an environmental engineer with over three decades of experience in wastewater engineering, environmental monitoring, applied statistics, and technical assessment.
 
-Aside from my regular work I'm particularly passionate about the correct application of statistics to solving engineering problems when appropriate. I use VS Code [@VSCode], Python [@Python], GitHub [@GitHub], RStudio [@rstudio] for technical publishing and of course $\LaTeX$ [@latex] for high-quality typesetting.
+My interests include integrating engineering judgment with statistical analysis to support transparent, evidence-based decision making. I am particularly interested in developing reproducible analytical workflows that improve technical communication and facilitate knowledge sharing across the engineering profession.
 
-My dissertation was focused on municipal sludge treatment using an anaerobic membrane bioreactor and is available though my Research Gate profile [@pileggi_researchgate]. The thesis was written in $LaTeX$ but included as significant amount of R-coding and statistics. It was a lot of fun with some frustration finishing it off 😄! 
+## Credentials
+
+- Ph.D.
+- Professional Engineer (P.Eng.)
+- Adjunct Professor, University of Guelph
+- Environmental Engineering
+- Applied Statistics
+- Technical Writing
+- Reproducible Research
+
+## Areas of Expertise
+
+::: {.grid}
+
+::: {.g-col-6}
+### Environmental Engineering
+
+Wastewater treatment, monitoring data, treatment system performance, and engineering interpretation.
+:::
+
+::: {.g-col-6}
+### Applied Statistics
+
+Descriptive statistics, uncertainty, reliability, visualization, and practical statistical communication.
+:::
+
+::: {.g-col-6}
+### Reproducible Reporting
+
+Quarto, R, Python, Git, GitHub, and transparent technical workflows.
+:::
+
+::: {.g-col-6}
+### Teaching and Mentoring
+
+Engineering education, professional development, plain-language technical writing, and student support.
+:::
+
+:::
+
+## Current Interests
+
+Current areas of interest include:
+
+- Evidence-based environmental engineering
+- Treatment performance assessment
+- Applied statistics for engineering
+- Reproducible reporting using Quarto
+- Python and R for environmental data analysis
+- Engineering education and mentoring
+- Technical communication in plain language
 
 
-This project hosts statistical analyses and technical notes.
-Built with **Quarto** and published via **GitHub Pages** (Option A, `/docs` on `main`).
+## Professional Philosophy
 
-## Guiding Principle
+Engineering decisions should be based on clear objectives, reliable data, appropriate analysis, transparent assumptions, and plain-language communication.
 
-This website is dedicated to advancing environmental engineering, applied statistics, and reproducible technical reporting through the sharing of public knowledge and educational resources.
+Good technical work should not only produce answers; it should also explain how those answers were developed, what uncertainty remains, and how the results should be interpreted.
 
-Content is intentionally presented in a generalized form and emphasizes engineering methods, statistical principles, and reproducible workflows rather than specific projects or assessments.
+## Guiding Principles
 
-Accordingly, this website does not include or disclose:
+- Teach methods, not projects.
+- Use evidence before opinion.
+- Communicate uncertainty clearly.
+- Prefer reproducible workflows.
+- Keep public examples generalized, synthetic, or based on public information.
+- Avoid disclosing confidential, proprietary, or project-specific information.
 
-- confidential assessments;
-- facility, client, municipality, or project names;
-- suppliers, manufacturers, or technology proponents;
-- proprietary information;
-- internal analyses or regulatory reviews; or
-- unpublished project-specific data.
+## Educational and Professional Resource
 
-Any examples presented are illustrative and are based on public information, synthetic datasets, or generalized engineering concepts developed for educational and professional development purposes.
+This website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments.
 
+## Contact
 
-## References
+For now, please use the GitHub link in the navigation bar.
+
+---
+
+> *The objective of this website is to advance environmental engineering through the sharing of public knowledge, evidence-based methods, and reproducible analytical workflows.*
+

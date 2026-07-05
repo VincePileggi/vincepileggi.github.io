@@ -1,21 +1,69 @@
 ---
 title: "Treatment Performance Assessment Framework"
-subtitle: "A generalized framework for assessing wastewater treatment system performance using engineering principles, applied statistics, and reproducible reporting."
+subtitle: "A generalized framework for evaluating wastewater treatment system performance"
+toc: true
 ---
 
 # Treatment Performance Assessment Framework
 
-This project presents a generalized framework for assessing the performance of wastewater treatment systems using engineering principles, applied statistics, and reproducible reporting.
+## Purpose
 
-The framework is intended for educational and professional development purposes and illustrates methods that can be applied to a wide range of treatment technologies and operating conditions.
+This framework presents a generalized approach for assessing the performance of wastewater treatment systems using engineering principles, applied statistics, and reproducible analytical workflows.
 
-Topics include:
+The material is intended for educational and professional development purposes and does not represent any specific facility, organization, supplier, technology proponent, or regulatory assessment.
 
-- defining performance objectives
-- selecting performance indicators
-- descriptive statistical analysis
-- trend analysis
-- treatment reliability
-- uncertainty evaluation
-- engineering interpretation
-- reproducible reporting using Quarto, Python, and Git
+---
+
+## Objectives
+
+The framework supports:
+
+- objective performance assessment;
+- evidence-based engineering decisions;
+- statistical interpretation of monitoring data;
+- transparent technical reporting;
+- reproducible analytical workflows.
+
+---
+
+## Assessment Framework
+
+The assessment process consists of the following stages:
+
+1. Define assessment objectives.
+2. Understand the treatment system.
+3. Evaluate monitoring data quality.
+4. Select performance indicators.
+5. Apply descriptive statistical methods.
+6. Assess trends and variability.
+7. Evaluate treatment reliability.
+8. Communicate uncertainty.
+9. Develop engineering conclusions.
+10. Document methods and assumptions.
+
+---
+
+## Core Topics
+
+Future sections will include:
+
+- performance indicators;
+- statistical summaries;
+- treatment reliability;
+- uncertainty analysis;
+- data visualization;
+- reproducible reporting;
+- engineering interpretation;
+- best practices.
+
+---
+
+## Guiding Principle
+
+Engineering assessments should be transparent, reproducible, evidence-based, and clearly communicate both conclusions and uncertainty.
+
+---
+
+## Confidentiality
+
+This framework presents generalized engineering methods only. Any examples used throughout this website are illustrative and do not represent actual facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments.

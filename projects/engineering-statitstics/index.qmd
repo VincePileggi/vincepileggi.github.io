@@ -1,0 +1,39 @@
+---
+title: "Applied Statistics for Engineering"
+subtitle: "Statistical methods for evidence-based engineering"
+toc: true
+---
+
+# Engineering Statistics
+
+## Purpose
+
+This project presents practical statistical methods that support evidence-based engineering decisions using environmental and engineering data.
+
+## Topics
+
+Future topics include:
+
+- Descriptive statistics
+- Exploratory data analysis
+- Probability distributions
+- Confidence intervals
+- Hypothesis testing
+- Regression
+- Correlation
+- Reliability analysis
+- Time-series analysis
+- Data visualization
+- Uncertainty analysis
+- Practical interpretation
+
+## Audience
+
+- Engineers
+- Scientists
+- Students
+- Researchers
+
+## Guiding Principle
+
+Statistical analysis should improve engineering understanding rather than simply produce numerical results.

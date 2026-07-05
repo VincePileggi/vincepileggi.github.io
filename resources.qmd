@@ -1,0 +1,6 @@
+---
+title: "Resources"
+---
+
+This section will contain tutorials, engineering references, Quarto, Python, R, statistical methods, and recommended resources.
+

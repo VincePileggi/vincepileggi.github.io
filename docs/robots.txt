@@ -1,1 +1,1 @@
-Sitemap: https://VincePileggi.github.io/engineering-stats/sitemap.xml
+Sitemap: https://vincepileggi.github.io/engineering-stats/sitemap.xml

@@ -34,7 +34,7 @@ Frameworks for assessing wastewater treatment system performance using engineeri
 
 Practical statistical methods for environmental and civil engineering, including uncertainty, reliability, visualization, and interpretation.
 
-[Explore methods](projects/)
+[View engineering statistics](projects/engineering-statistics/)
 :::
 
 ::: {.g-col-6}
@@ -42,7 +42,7 @@ Practical statistical methods for environmental and civil engineering, including
 
 Use of Quarto, R, Python, Git, and GitHub to create transparent, repeatable, and well-documented technical analyses.
 
-[View projects](projects/)
+[View reports](projects/reproducible-reporting/)
 :::
 
 ::: {.g-col-6}
@@ -50,7 +50,7 @@ Use of Quarto, R, Python, Git, and GitHub to create transparent, repeatable, and
 
 Resources for students, engineers, and early-career professionals interested in applying engineering judgment and statistical thinking.
 
-[Learn more](about.qmd)
+[Explore teaching resources](teaching.qmd)
 :::
 
 :::

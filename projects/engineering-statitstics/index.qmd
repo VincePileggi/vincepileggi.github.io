@@ -4,8 +4,6 @@ subtitle: "Statistical methods for evidence-based engineering"
 toc: true
 ---
 
-# Engineering Statistics
-
 ## Purpose
 
 This project presents practical statistical methods that support evidence-based engineering decisions using environmental and engineering data.

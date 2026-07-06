@@ -4,8 +4,6 @@ subtitle: "Engineering frameworks, statistical methods, and reproducible workflo
 toc: false
 ---
 
-# Projects
-
 These projects present generalized engineering methods, analytical frameworks, and reproducible workflows for education and professional development.
 
 All content is technology-neutral and does not reference confidential assessments, specific facilities, suppliers, organizations, or regulatory reviews.

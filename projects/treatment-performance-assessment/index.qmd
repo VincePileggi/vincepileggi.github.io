@@ -4,8 +4,6 @@ subtitle: "A generalized framework for evaluating wastewater treatment system pe
 toc: true
 ---
 
-# Treatment Performance Assessment Framework
-
 ## Purpose
 
 This framework presents a generalized approach for assessing the performance of wastewater treatment systems using engineering principles, applied statistics, and reproducible analytical workflows.

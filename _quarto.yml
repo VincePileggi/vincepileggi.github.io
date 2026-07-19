@@ -10,6 +10,11 @@ website:
   title: "Evidence-Based Engineering"
   site-url: "https://vincepileggi.github.io/engineering-stats/"
 
+  page-footer:
+    center: |
+       © 2026 Vince Pileggi · Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/){target="_blank"}  
+       Views are my own and do not represent my employer or affiliated organizations.
+  
   navbar:
     left:
       - text: "Home"
@@ -22,6 +27,8 @@ website:
         href: publications.qmd
       - text: "Resources"
         href: resources.qmd
+      - href: license.qmd
+        text: License
 
     right:
       - icon: github
@@ -33,6 +40,7 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: true
     smooth-scroll: true
     page-footer:
@@ -40,5 +48,7 @@ format:
       center: "Evidence-Based Engineering"
       right: "Built with Quarto"  
     number-sections: false
-    css: styles.css
     include-before-body: notice.html
+    include-after-body:
+      text: |
+        <script src="open-external-links.js"></script>

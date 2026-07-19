@@ -147,81 +147,11 @@
     "text": "Guiding Principle\nStatistical analysis should improve engineering understanding rather than simply produce numerical results."
   },
   {
-    "objectID": "interests.html",
-    "href": "interests.html",
-    "title": "Interests",
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
     "section": "",
-    "text": "My current interests include sharing my statistical inquiries and technical reports I’ve worked that may help others solve similar problems related to applied statistics."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am an environmental engineer with over three decades of experience in wastewater engineering, environmental monitoring, applied statistics, and technical assessment.\nMy interests include integrating engineering judgment with statistical analysis to support transparent, evidence-based decision making. I am particularly interested in developing reproducible analytical workflows that improve technical communication and facilitate knowledge sharing across the engineering profession.\n\n\n\n\nPh.D.\nProfessional Engineer (P.Eng.)\nAdjunct Professor, University of Guelph\nEnvironmental Engineering\nApplied Statistics\nTechnical Writing\nReproducible Research\n\n\n\n\n\n\n\nWastewater treatment, monitoring data, treatment system performance, and engineering interpretation.\n\n\n\nDescriptive statistics, uncertainty, reliability, visualization, and practical statistical communication.\n\n\n\nQuarto, R, Python, Git, GitHub, and transparent technical workflows.\n\n\n\nEngineering education, professional development, plain-language technical writing, and student support.\n\n\n\n\n\nCurrent areas of interest include:\n\nEvidence-based environmental engineering\nTreatment performance assessment\nApplied statistics for engineering\nReproducible reporting using Quarto\nPython and R for environmental data analysis\nEngineering education and mentoring\nTechnical communication in plain language\n\n\n\n\nEngineering decisions should be based on clear objectives, reliable data, appropriate analysis, transparent assumptions, and plain-language communication.\nGood technical work should not only produce answers; it should also explain how those answers were developed, what uncertainty remains, and how the results should be interpreted.\n\n\n\n\nTeach methods, not projects.\nUse evidence before opinion.\nCommunicate uncertainty clearly.\nPrefer reproducible workflows.\nKeep public examples generalized, synthetic, or based on public information.\nAvoid disclosing confidential, proprietary, or project-specific information.\n\n\n\n\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments.\n\n\n\nFor now, please use the GitHub link in the navigation bar.\n\n\nThe objective of this website is to advance environmental engineering through the sharing of public knowledge, evidence-based methods, and reproducible analytical workflows."
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
-    "section": "",
-    "text": "I am a wastewater engineering specialist, statistician, and educator with expertise in environmental data analytics, technology assessment, and evidence-based decision-making."
-  },
-  {
-    "objectID": "about.html#professional-profile",
-    "href": "about.html#professional-profile",
-    "title": "About",
-    "section": "",
-    "text": "I am an environmental engineer with over three decades of experience in wastewater engineering, environmental monitoring, applied statistics, and technical assessment.\nMy interests include integrating engineering judgment with statistical analysis to support transparent, evidence-based decision making. I am particularly interested in developing reproducible analytical workflows that improve technical communication and facilitate knowledge sharing across the engineering profession."
-  },
-  {
-    "objectID": "about.html#credentials",
-    "href": "about.html#credentials",
-    "title": "About",
-    "section": "",
-    "text": "Ph.D.\nProfessional Engineer (P.Eng.)\nAdjunct Professor, University of Guelph\nEnvironmental Engineering\nApplied Statistics\nTechnical Writing\nReproducible Research"
-  },
-  {
-    "objectID": "about.html#areas-of-expertise",
-    "href": "about.html#areas-of-expertise",
-    "title": "About",
-    "section": "",
-    "text": "Wastewater treatment, monitoring data, treatment system performance, and engineering interpretation.\n\n\n\nDescriptive statistics, uncertainty, reliability, visualization, and practical statistical communication.\n\n\n\nQuarto, R, Python, Git, GitHub, and transparent technical workflows.\n\n\n\nEngineering education, professional development, plain-language technical writing, and student support."
-  },
-  {
-    "objectID": "about.html#current-interests",
-    "href": "about.html#current-interests",
-    "title": "About",
-    "section": "",
-    "text": "Current areas of interest include:\n\nEvidence-based environmental engineering\nTreatment performance assessment\nApplied statistics for engineering\nReproducible reporting using Quarto\nPython and R for environmental data analysis\nEngineering education and mentoring\nTechnical communication in plain language"
-  },
-  {
-    "objectID": "about.html#professional-philosophy",
-    "href": "about.html#professional-philosophy",
-    "title": "About",
-    "section": "",
-    "text": "Engineering decisions should be based on clear objectives, reliable data, appropriate analysis, transparent assumptions, and plain-language communication.\nGood technical work should not only produce answers; it should also explain how those answers were developed, what uncertainty remains, and how the results should be interpreted."
-  },
-  {
-    "objectID": "about.html#guiding-principles",
-    "href": "about.html#guiding-principles",
-    "title": "About",
-    "section": "",
-    "text": "Teach methods, not projects.\nUse evidence before opinion.\nCommunicate uncertainty clearly.\nPrefer reproducible workflows.\nKeep public examples generalized, synthetic, or based on public information.\nAvoid disclosing confidential, proprietary, or project-specific information."
-  },
-  {
-    "objectID": "about.html#educational-and-professional-resource",
-    "href": "about.html#educational-and-professional-resource",
-    "title": "About",
-    "section": "",
-    "text": "This website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "",
-    "text": "For now, please use the GitHub link in the navigation bar.\n\n\nThe objective of this website is to advance environmental engineering through the sharing of public knowledge, evidence-based methods, and reproducible analytical workflows."
+    "text": "Unless otherwise noted, the content on this website is the original work of Vince Pileggi and is licensed under Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).\nYou are welcome to read, download, share, and use these materials for personal study, teaching, and non-commercial research, provided appropriate credit is given.\nCommercial use, redistribution for profit, or incorporation into commercial products or services without prior written permission is prohibited.\nThe examples, analyses, and educational materials presented on this website are intended for learning and professional development. Any resemblance to specific projects or organizations is incidental, and no proprietary datasets, confidential information, or employer-owned materials are included unless explicitly stated.\n© 2026 Vince Pileggi. Some rights reserved under CC BY-NC 4.0."
   },
   {
     "objectID": "index.html",
@@ -271,6 +201,76 @@
     "title": "Evidence-Based Engineering",
     "section": "Current Status",
     "text": "Current Status\nThe website is under active development.\nFuture additions include:\n\nPublications\nTeaching resources\nTechnical tutorials\nEngineering case studies using synthetic or public data\nDownloadable reference material"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a wastewater engineering specialist, applied statistician, and educator with expertise in environmental data analytics, technology assessment, and evidence-based decision-making."
+  },
+  {
+    "objectID": "about.html#professional-profile",
+    "href": "about.html#professional-profile",
+    "title": "About",
+    "section": "Professional Profile",
+    "text": "Professional Profile\nI am an environmental engineer with over three decades of experience in wastewater engineering, environmental monitoring, applied statistics, and technical assessment.\nMy interests include integrating engineering judgment with statistical analysis to support transparent, evidence-based decision making. I am particularly interested in developing reproducible analytical workflows that improve technical communication and facilitate knowledge sharing across the engineering profession."
+  },
+  {
+    "objectID": "about.html#credentials",
+    "href": "about.html#credentials",
+    "title": "About",
+    "section": "Credentials",
+    "text": "Credentials\n\nPh.D.\nProfessional Engineer (P.Eng.)\nAdjunct Professor, University of Guelph\nEnvironmental Engineering\nApplied Statistics\nTechnical Writing\nReproducible Research"
+  },
+  {
+    "objectID": "about.html#areas-of-expertise",
+    "href": "about.html#areas-of-expertise",
+    "title": "About",
+    "section": "Areas of Expertise",
+    "text": "Areas of Expertise\n\n\nEnvironmental Engineering\nWastewater treatment, monitoring data, treatment system performance, and engineering interpretation.\n\n\nApplied Statistics\nDescriptive statistics, uncertainty, reliability, visualization, and practical statistical communication.\n\n\nReproducible Reporting\nQuarto, R, Python, Git, GitHub, and transparent technical workflows.\n\n\nTeaching and Mentoring\nEngineering education, professional development, plain-language technical writing, and student support."
+  },
+  {
+    "objectID": "about.html#current-interests",
+    "href": "about.html#current-interests",
+    "title": "About",
+    "section": "Current Interests",
+    "text": "Current Interests\nCurrent areas of interest include:\n\nEvidence-based environmental engineering\nTreatment performance assessment\nApplied statistics for engineering\nReproducible reporting using Quarto\nPython and R for environmental data analysis\nEngineering education and mentoring\nTechnical communication in plain language"
+  },
+  {
+    "objectID": "about.html#professional-philosophy",
+    "href": "about.html#professional-philosophy",
+    "title": "About",
+    "section": "Professional Philosophy",
+    "text": "Professional Philosophy\nEngineering decisions should be based on clear objectives, reliable data, appropriate analysis, transparent assumptions, and plain-language communication.\nGood technical work should not only produce answers; it should also explain how those answers were developed, what uncertainty remains, and how the results should be interpreted."
+  },
+  {
+    "objectID": "about.html#guiding-principles",
+    "href": "about.html#guiding-principles",
+    "title": "About",
+    "section": "Guiding Principles",
+    "text": "Guiding Principles\n\nTeach methods, not projects.\nUse evidence before opinion.\nCommunicate uncertainty clearly.\nPrefer reproducible workflows.\nKeep public examples generalized, synthetic, or based on public information.\nAvoid disclosing confidential, proprietary, or project-specific information."
+  },
+  {
+    "objectID": "about.html#educational-and-professional-resource",
+    "href": "about.html#educational-and-professional-resource",
+    "title": "About",
+    "section": "Educational and Professional Resource",
+    "text": "Educational and Professional Resource\nThis website is intended for educational and professional development purposes. It presents generalized engineering methods, statistical techniques, and reproducible workflows. Any examples are illustrative and do not represent specific facilities, organizations, clients, suppliers, manufacturers, technology proponents, or regulatory assessments."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFor now, please use the GitHub link in the navigation bar."
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "My current interests include sharing my statistical inquiries and technical reports I’ve worked that may help others solve similar problems related to applied statistics."
   },
   {
     "objectID": "projects/decision-support-tools/index.html",

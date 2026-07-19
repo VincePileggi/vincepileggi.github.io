@@ -14,8 +14,6 @@ toc: true
 
 ::: {.column width="70%"}
 
-## About Me
-
 I am a wastewater engineering specialist, applied statistician, and educator with expertise in environmental data analytics, technology assessment, and evidence-based decision-making.
 
 :::
@@ -104,9 +102,7 @@ This website is intended for educational and professional development purposes. 
 
 ## Contact
 
-For now, please use the GitHub link in the navigation bar.
+For comments, questions, or suggestions related to the educational material presented on this website, please use the GitHub link in the navigation bar. This website is maintained in a personal capacity and is independent of my professional role.
 
----
 
-> *The objective of this website is to advance environmental engineering through the sharing of public knowledge, evidence-based methods, and reproducible analytical workflows.*
 

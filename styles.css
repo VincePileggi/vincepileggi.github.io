@@ -86,6 +86,27 @@ a:hover {
 
 /* Footer */
 
-.page-footer {
+footer.footer .nav-footer {
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+footer.footer .nav-footer-left,
+footer.footer .nav-footer-right {
+  display: none !important;
+}
+
+footer.footer .nav-footer-center {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto;
+  text-align: center;
   font-size: 0.9rem;
+}
+
+footer.footer .nav-footer-center p {
+  margin: 0;
 }

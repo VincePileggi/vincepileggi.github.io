@@ -1,0 +1,13 @@
+---
+title: "License"
+---
+
+Unless otherwise noted, the content on this website is the original work of Vince Pileggi and is licensed under [Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are welcome to read, download, share, and use these materials for personal study, teaching, and non-commercial research, provided appropriate credit is given.
+
+Commercial use, redistribution for profit, or incorporation into commercial products or services without prior written permission is prohibited.
+
+The examples, analyses, and educational materials presented on this website are intended for learning and professional development. Any resemblance to specific projects or organizations is incidental, and no proprietary datasets, confidential information, or employer-owned materials are included unless explicitly stated.
+
+© 2026 Vince Pileggi. Some rights reserved under CC BY-NC 4.0.

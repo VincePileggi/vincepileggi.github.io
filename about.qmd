@@ -4,6 +4,26 @@ subtitle: "Environmental engineering, applied statistics, and reproducible techn
 toc: true
 ---
 
+::: {.columns}
+
+::: {.column width="35%"}
+
+![](images/VincePileggi.png){fig-alt="Portrait photograph" width="100%"}
+
+:::
+
+::: {.column width="65%"}
+
+## About Me
+
+I am a wastewater engineering specialist, statistician, and educator with expertise in environmental data analytics, technology assessment, and evidence-based decision-making.
+
+:::
+
+:::
+
+
+
 # Vince Pileggi, Ph.D., P.Eng.
 
 ## Professional Profile

@@ -6,25 +6,23 @@ toc: true
 
 ::: {.columns}
 
-::: {.column width="35%"}
+::: {.column width="30%"}
 
-![](images/VincePileggi.png){fig-alt="Portrait photograph" width="100%"}
+![](images/VincePileggi.png){fig-alt="Portrait photograph" width="80%"}
 
 :::
 
-::: {.column width="65%"}
+::: {.column width="70%"}
 
 ## About Me
 
-I am a wastewater engineering specialist, statistician, and educator with expertise in environmental data analytics, technology assessment, and evidence-based decision-making.
+I am a wastewater engineering specialist, applied statistician, and educator with expertise in environmental data analytics, technology assessment, and evidence-based decision-making.
 
 :::
 
 :::
 
 
-
-# Vince Pileggi, Ph.D., P.Eng.
 
 ## Professional Profile
 

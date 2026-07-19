@@ -32,7 +32,8 @@ website:
 
     right:
       - icon: github
-        href: "https://github.com/VincePileggi/engineering-stats"
+        href: https://github.com/VincePileggi/vincepileggi.github.io
+        aria-label: GitHub repository
 
   search: true
   page-navigation: true

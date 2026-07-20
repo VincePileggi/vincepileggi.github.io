@@ -102,7 +102,9 @@ This website is intended for educational and professional development purposes. 
 
 ## Contact
 
-For comments, questions, or suggestions related to the educational material presented on this website, please use the GitHub link in the navigation bar. This website is maintained in a personal capacity and is independent of my professional role.
+## Contact
+
+For comments, questions, or suggestions related to the educational material presented on this website, please visit the GitHub repository linked in the navigation bar. GitHub users may contact me by opening an issue in the relevant repository or by using the contact options available through my GitHub profile. This website is maintained in a personal capacity and is independent of my professional role.
 
 
 

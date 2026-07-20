@@ -320,5 +320,12 @@
     "title": "Teaching",
     "section": "",
     "text": "Coming soon."
+  },
+  {
+    "objectID": "about.html#contact-1",
+    "href": "about.html#contact-1",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFor comments, questions, or suggestions related to the educational material presented on this website, please visit the GitHub repository linked in the navigation bar. GitHub users may contact me by opening an issue in the relevant repository or by using the contact options available through my GitHub profile. This website is maintained in a personal capacity and is independent of my professional role."
   }
 ]
